@@ -1,0 +1,2346 @@
+<REAPER_PROJECT 0.1 "7.80/macOS-arm64" 1790392911 0
+  <NOTES 0 2
+  >
+  RIPPLE 0 0
+  GROUPOVERRIDE 0 0 0 0
+  AUTOXFADE 129
+  ENVATTACH 3
+  POOLEDENVATTACH 0
+  TCPUIFLAGS 0
+  MIXERUIFLAGS 11 48 0
+  ENVFADESZ10 40
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 0
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1 0
+  VIDEO_CONFIG 0 0 65792
+  PANMODE 3
+  PANLAWFLAGS 3
+  CURSOR 2.5
+  ZOOM 63.48144317248025 0 0
+  VZOOMEX 0.75104159 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "Media" ""
+  <RECORD_CFG
+    ZXZhdxgAAQ==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN " "
+  RENDER_FMT 0 2 44100
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 0 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  RENDER_TRIM 0.000001 0.000001 0 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxAAAQ==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    BEATLEN 4
+    FREQ 1760 880 1
+    SAMPLES "" "" "" ""
+    SPLIGNORE 0 0
+    SPLDEF 2 660 "" 0 ""
+    SPLDEF 3 440 "" 0 ""
+    PATTERN 0 169
+    PATTERNSTR ABBB
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4 0
+  PLAYRATE 1 0 0.25 4
+  SELECTION 1.5 1.5
+  SELECTION2 1.5 1.5
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0 0 1
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_PANLAWFLAGS 3
+  MASTER_FX 1
+  MASTER_TRACKID {D6C3EB81-937A-914C-9C93-28FB9249BF4C}
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {96B11339-0488-BA46-B1D1-EB7D6027969D}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {FE77910D-44AA-EF44-8720-C864F8AE6723}
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  RULERHEIGHT 86 86
+  RULERLANE 1 4 "" 0 -1 0
+  RULERLANE 2 8 "" 0 -1 0
+  <PROJBAY
+  >
+  <TRACK {28472E7B-C982-3741-B93D-AF543E299550}
+    NAME "C02-SO1-Seatbelt buckle click"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {28472E7B-C982-3741-B93D-AF543E299550}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.27898512967171
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6EA9266B-1000-0248-ACD6-614384CEBFF2}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8BF35E15-AA15-DD42-86B2-0664DFA74F80}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 0.27898512967171
+      SNAPOFFS 0
+      LENGTH 0.45335083571652
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E05C8603-D95E-2D4C-9C1E-4C5592210702}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.27898512967171
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8372B8FC-FE6A-F048-8946-A402E96D6A5B}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 0.73233596538823
+      SNAPOFFS 0
+      LENGTH 0.44052090456242
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {720F7018-E409-2745-A25E-A8B74848B2AB}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.73233596538823
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D729EC59-86A4-B449-B6AF-EB2954367091}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 1.17285686995064
+      SNAPOFFS 0
+      LENGTH 0.10717485190928
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F86FFE27-10B3-4445-839B-607E8B37795A}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1.17285686995064
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {25EFF8B5-A56D-0B46-8E86-BAFB46F5CB1A}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 1.28003172185993
+      SNAPOFFS 0
+      LENGTH 0.18145171007981
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E6CE598C-27F8-6D4D-9B08-473453997304}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1.28003172185993
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {697241F1-55B0-584F-9840-E769921414BB}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 1.46148343193974
+      SNAPOFFS 0
+      LENGTH 3.03851656806026
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AE044DAD-FD9E-B341-8B12-EC0E08C29696}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1.46148343193974
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {471E3B0A-0D8E-AD43-8010-C177A19DAD8D}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 4.5
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {28623A91-5121-7445-88E1-731D0B451B76}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3164B68A-0C82-D74A-B0DD-DB8164AEAAE3}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+  >
+  <TRACK {679B1DD1-F7BB-7642-ACB3-54DE6744AEC5}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {679B1DD1-F7BB-7642-ACB3-54DE6744AEC5}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.45335083571652
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0.01 0.04103097238364 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {51E87A0D-7C8C-8448-84C0-5B39270D1CAC}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.27898512967171
+      PLAYRATE 0.25 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0F5FD3C2-4DF9-6548-AE92-582320B17463}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 0.41231986333287
+      SNAPOFFS 0
+      LENGTH 0.45335083571651
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.04103097238364 1 1 0 0
+      FADEOUT 1.1 0.01 0.01786693511775 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1FA7B0E2-C6F4-9B4E-83F7-22A1AF3365C3}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.27898512967171
+      PLAYRATE 0.25 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {94902CFB-4235-254C-A185-27164B279FE7}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 0.84780376393164
+      SNAPOFFS 0
+      LENGTH 0.45335083571652
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.01786693511775 1 1 0 0
+      FADEOUT 1.1 0.01 0.02523609110981 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2F8BF1E5-3C45-0B4F-9CE7-E750CCC41F9B}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.27898512967171
+      PLAYRATE 0.25 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DFA3506C-0C36-EB45-B05E-D7B06D8D77DA}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 1.27591850853834
+      SNAPOFFS 0
+      LENGTH 0.45335083571651
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.02523609110981 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {89B3B479-8F31-BE40-BB39-3AACB4F68A53}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.27898512967171
+      PLAYRATE 0.25 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C5CEAC4C-2BBE-3D44-BAFA-A40804001298}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 1.72926934424322
+      SNAPOFFS 0
+      LENGTH 0.45335083571652
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0.01 0.04103097238364 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {11073F8C-1A33-8C4E-8BF9-0C1F764B6A6B}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.27898512967171
+      PLAYRATE 0.25 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {18CBAA96-A6BE-AB42-82E9-61BE967CC17D}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 2.14158920757473
+      SNAPOFFS 0
+      LENGTH 0.45335083571651
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.04103097238364 1 1 0 0
+      FADEOUT 1.1 0.01 0.0178669351192 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {077B2C02-38D2-AC40-B9B6-B54319156036}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.27898512967171
+      PLAYRATE 0.25 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BAE8F25C-D377-7B40-88E5-A0CD61CB95A1}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 2.57707310817204
+      SNAPOFFS 0
+      LENGTH 0.45335083571652
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.01786693511775 1 1 0 0
+      FADEOUT 1.1 0.01 0.02523609111474 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FF520D67-E036-FD4F-93A9-9110866ED619}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.27898512967171
+      PLAYRATE 0.2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3F60A379-3753-4545-A7F0-5DE78B25F1CC}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 3.00518785277382
+      SNAPOFFS 0
+      LENGTH 0.45335083571651
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.02523609110981 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E5CB6F15-6EF7-B04A-8710-25B6C92835A7}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.27898512967171
+      PLAYRATE 0.25 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {99C599D5-A8A8-3D4F-AC76-9FCC1FB661EE}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 3.45853868848644
+      SNAPOFFS 0
+      LENGTH 0.45335083571652
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0.01 0.04103097238501 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A2DB7DB1-7EE3-AE43-AB77-58E6CB9723D0}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.27898512967171
+      PLAYRATE 0.25 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7E3557A1-2AC9-8943-9033-548A39A62668}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 3.87085855181795
+      SNAPOFFS 0
+      LENGTH 0.45335083571651
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.04103097238364 1 1 0 0
+      FADEOUT 1.1 0.01 0.01786693511919 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8F9DC121-67D8-FF4E-B9DB-77327D47402A}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.27898512967171
+      PLAYRATE 0.25 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A3F45F21-AC86-364A-9571-61394C979B59}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 4.30634245241527
+      SNAPOFFS 0
+      LENGTH 0.19365754758473
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.01786693511775 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A8A26A3E-1FD3-3D4D-9611-A2B41448A3DD}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.27898512967171
+      PLAYRATE 0.27 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E207FC34-291C-D849-A94F-D8E22FC3821E}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 4.5
+      SNAPOFFS 0
+      LENGTH 0.08923026962327
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {34A62110-8A5A-664D-972C-0AB952526E6C}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.33127266751959
+      PLAYRATE 0.27 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E4B256C0-FE2F-044F-B66D-A8F26BD58D33}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 4.58923026962327
+      SNAPOFFS 0
+      LENGTH 0.17046301850852
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0.01 0.02523609110981 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BB4D821A-22FA-824E-92A9-C1AA94B8662F}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.35536484031787
+      PLAYRATE 0.27 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2BEFBB69-ECF4-2844-B063-1681C14EC73B}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 4.73445719701704
+      SNAPOFFS 0
+      LENGTH 0.45335083571651
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.02523609110981 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CD862B50-4582-794A-B782-06CBB628E6FD}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.27898512967171
+      PLAYRATE 0.25 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EEA015EA-0130-D448-B8AD-3FE7789F0E0F}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 5.18780803272966
+      SNAPOFFS 0
+      LENGTH 0.45335083571652
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0.01 0.04103097238364 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B9E9EFA2-7FD4-044D-9348-18D4CA95F50C}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.27898512967171
+      PLAYRATE 0.25 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C534EC06-EB24-1449-A523-0C6691E1173B}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 5.60012789606117
+      SNAPOFFS 0
+      LENGTH 0.45335083571651
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.04103097238364 1 1 0 0
+      FADEOUT 1.1 0.01 0.01786693511775 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A765CCFD-BB8B-8E41-AEE8-83694F4B79A9}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.27898512967171
+      PLAYRATE 0.25 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6226B96E-179A-8042-B79E-F1992F4241F4}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 6.03561179665849
+      SNAPOFFS 0
+      LENGTH 0.45335083571652
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.01786693511775 1 1 0 0
+      FADEOUT 1.1 0.01 0.02523609110981 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {26081808-CE2D-944A-B394-0D6A5931AC48}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.27898512967171
+      PLAYRATE 0.25 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DF972F1B-FE51-BF4C-A33E-6C43ADFF346C}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 6.46372654126026
+      SNAPOFFS 0
+      LENGTH 0.45335083571651
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.02523609110981 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {08B2C2C8-A509-A243-8838-2D5CD3918ACB}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.27898512967171
+      PLAYRATE 0.07 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4EACDADB-CCBF-5D4D-84DA-6E3FDA386DEE}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 6.91707737697288
+      SNAPOFFS 0
+      LENGTH 0.45335083571652
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0.01 0.04103097238364 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {59272C3B-9D56-6240-AF4E-393ACC87D1D4}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.27898512967171
+      PLAYRATE 0.25 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6394D621-4236-C540-AA1A-C23CA9AA0440}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 7.32939724030439
+      SNAPOFFS 0
+      LENGTH 0.45335083571651
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.04103097238364 1 1 0 0
+      FADEOUT 1.1 0.01 0.01786693511775 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7B31CC3A-AC91-3943-BFDC-EB34565AC3C1}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.27898512967171
+      PLAYRATE 0.25 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {876DDC55-E12D-A945-8771-849B3AD19BA1}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 7.76488114090171
+      SNAPOFFS 0
+      LENGTH 0.23511885909829
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.01786693511775 1 1 0 0
+      FADEOUT 1 0.05679113625897 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0399964F-A75A-E540-AC82-881E158F856F}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.27898512967171
+      PLAYRATE 0.25 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BE0A5653-733B-384B-B687-B4C3585AA53B}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 8
+      SNAPOFFS 0
+      LENGTH 0.10717485190928
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.02921813169236 0 1 0 0 0
+      FADEOUT 1 0.03748177059276 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EF943E4C-F114-B146-AA5F-A94684DD7487}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1.17285686995064
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {16B9E450-CEEF-2446-A0A7-1BE8E3C4D1C9}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 8.10717485193163
+      SNAPOFFS 0
+      LENGTH 0.39282514806837
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {375C212D-17DC-8140-A436-283E2460BDAC}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1.28003172185993
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2D4A1F74-94A1-5A46-8E42-35FA5E4E89B9}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 8.10717485193163
+      SNAPOFFS 0
+      LENGTH 0.10717485190928
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {069E512D-D719-EB4C-99D6-342A8460E99D}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1.17285686995064
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A26C2299-9E93-E34E-9FA9-CC3531B6FACF}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 8.21434970386326
+      SNAPOFFS 0
+      LENGTH 0.18145171007981
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9353940D-5AE9-BF45-97BC-40547AC68CD4}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1.28003172185993
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {164FE03F-0F74-4945-927E-64B444150C05}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 8.5
+      SNAPOFFS 0
+      LENGTH 0.10717485190928
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E94014AF-4F67-8445-9A9C-744AD2407C27}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1.17285686995064
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8888668A-C384-E045-8C92-8FC650CE7B25}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 8.60717485193163
+      SNAPOFFS 0
+      LENGTH 0.18145171007981
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FFA94E06-EC6A-4845-85F0-174030BAD21D}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1.28003172185993
+      PLAYRATE 0.8 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8CD64F92-5D62-8343-8883-712E47308923}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 8.78862656198908
+      SNAPOFFS 0
+      LENGTH 0.10717485190928
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {58A877B5-8734-E243-BF03-858A0DEC45F7}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1.17285686995064
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B6BACC49-E331-EA42-B2DD-DB5E4577C321}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 8.89580141392071
+      SNAPOFFS 0
+      LENGTH 0.18145171007981
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CBB1A911-B4B4-1344-B87A-602E53BA3BD1}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1.28003172185993
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CE663072-EC82-3C40-A006-1FC37031DBEB}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 9.07725312397815
+      SNAPOFFS 0
+      LENGTH 0.10717485190928
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4C0E973E-5AFE-1C48-AB63-C1EC2E66D3E8}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1.17285686995064
+      PLAYRATE 0.7 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {39AD5902-B355-6D4E-908A-41C3AA493D20}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 9.18442797590978
+      SNAPOFFS 0
+      LENGTH 0.18145171007981
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {813A37D5-8DC9-9847-A696-0822FBCA632B}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1.28003172185993
+      PLAYRATE 0.7 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {91A02AD0-767B-B441-88C9-4B40A3061291}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 9.36587968596723
+      SNAPOFFS 0
+      LENGTH 0.10717485190928
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {44A3A59B-A171-8B44-9D96-ED656F94FC9B}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1.17285686995064
+      PLAYRATE 0.6 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {83A580D7-2D82-0845-A290-EB55723369C6}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 9.47305453789886
+      SNAPOFFS 0
+      LENGTH 0.18145171007981
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {40E24028-D77E-CA46-8047-5DD736CF1D03}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1.28003172185993
+      PLAYRATE 0.6 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {82D98A64-8EAA-7042-93CA-4F1DC0B174E8}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 9.65450624795631
+      SNAPOFFS 0
+      LENGTH 0.10717485190928
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B4A28A27-B39A-FD41-8EED-BA50C1496FCB}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1.17285686995064
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DCA584C6-D005-A947-8CF7-7CB949894B81}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 9.76168109988794
+      SNAPOFFS 0
+      LENGTH 0.18145171007981
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.18145171007981 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FE794AAB-2665-4748-848E-662AFEFE1F49}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1.28003172185993
+      PLAYRATE 0.5 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {279F208E-46BE-0A44-9ABE-108405C3E05E}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+  >
+  <TRACK {148C54DC-E0C9-7E49-9687-2924E62CC07C}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {148C54DC-E0C9-7E49-9687-2924E62CC07C}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0.5923129441203
+      SNAPOFFS 0
+      LENGTH 0.45335083571652
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0.01 0.04566377983682 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {ADB50907-5ED5-9C4E-94BA-4BAE6C3C55A7}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.27898512967171
+      PLAYRATE 0.45 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {648CA8E8-7B40-1A4E-97E2-FD6FD84AEAC4}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 1
+      SNAPOFFS 0
+      LENGTH 0.45335083571651
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.04566377983682 1 1 0 0
+      FADEOUT 1.1 0.01 0.03176535747728 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D57E18CC-3FAA-724E-A16E-DDEA19014563}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.27898512967171
+      PLAYRATE 0.45 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {003E87EA-20C8-D346-A215-E5D0133493A1}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 1.42158547823923
+      SNAPOFFS 0
+      LENGTH 0.49999999999611
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.03176535747728 1 1 0 0
+      FADEOUT 1.1 0.01 0.04598486958463 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9C1F6D3B-A4CD-2B44-9DA9-3C29E81456D2}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.25799300574589
+      PLAYRATE 0.45 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {193C4D5B-B45D-5E4B-8E8A-0259EEA96BB1}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 1.87560060865071
+      SNAPOFFS 0
+      LENGTH 0.45335083571652
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.04598486958463 1 1 0 0
+      FADEOUT 1.1 0.01 0.04103097238364 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {679DF0E2-7D0A-6A4E-BC6D-7C954AA7556B}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.27898512967171
+      PLAYRATE 0.45 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {976F67A1-2FB8-6145-A7B8-E51AC4BD48C6}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 2.28792047198358
+      SNAPOFFS 0
+      LENGTH 0.21207952801642
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.04103097238364 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {ED8C622B-4CE0-094D-A8BC-244855FD8157}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.27898512967171
+      PLAYRATE 0.45 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {87CC8341-DAD5-7543-A466-393C72287809}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 2.5
+      SNAPOFFS 0
+      LENGTH 0.2412713077001
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EB409280-98BD-E64E-8E0A-F6238A2822A2}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.3744209172791
+      PLAYRATE 0.45 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {114B12D6-8401-D840-8B3B-89D7555C8A9B}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 2.74127130769057
+      SNAPOFFS 0
+      LENGTH 0.45335083571652
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0.01 0.04566377983818 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {96735882-7A58-3D4B-AF82-A557A85F5DA8}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.27898512967171
+      PLAYRATE 0.2 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {153EDA73-BA26-7B44-810D-89C4E9A0951D}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 3.14895836356891
+      SNAPOFFS 0
+      LENGTH 0.45335083571651
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.04566377983682 1 1 0 0
+      FADEOUT 1.1 0.01 0.03176535747868 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {609ED73A-A13D-F34A-B5CB-0A61BB8DFD33}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.27898512967171
+      PLAYRATE 0.45 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5602B129-C146-C541-B43C-1BEA6FACE288}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 3.57054384180674
+      SNAPOFFS 0
+      LENGTH 0.49999999999611
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.03176535747728 1 1 0 0
+      FADEOUT 1.1 0.01 0.04598486958613 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B1CD13F7-DCE0-A642-A792-D267F34C9FB6}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.25799300574589
+      PLAYRATE 0.45 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BB94C41A-7E00-4A4C-B8CC-AC98624FD349}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 4.02455897221672
+      SNAPOFFS 0
+      LENGTH 0.45335083571652
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.04598486958463 1 1 0 0
+      FADEOUT 1.1 0.01 0.04103097238364 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {999F0442-0158-9048-ADE0-D11E50193BC8}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.27898512967171
+      PLAYRATE 0.45 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DBD165F8-8A68-3F4A-B4C7-5C9D8720FD4B}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 4.43687883554822
+      SNAPOFFS 0
+      LENGTH 0.19918031437733
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.04103097238364 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F63570EC-BBE9-AD46-9E69-A9F73815AFCC}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.27898512967171
+      PLAYRATE 0.4 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B534318D-D523-CF4C-B1D0-6FBED3434F87}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 4.63605914992555
+      SNAPOFFS 0
+      LENGTH 0.25417052133919
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FDF5E391-12EC-6346-B45F-49D16E50F621}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.36861627114151
+      PLAYRATE 0.5 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E4F328D7-BA48-2147-8B2F-C705AFCBBEC8}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 4.89022967126085
+      SNAPOFFS 0
+      LENGTH 0.45335083571652
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0.01 0.04566377983682 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BFEC7088-03C1-5E4C-869D-9F3A423A505A}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.27898512967171
+      PLAYRATE 0.45 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D1A4CD3C-5D85-2746-8E28-9C61682ED28F}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 5.29791672713919
+      SNAPOFFS 0
+      LENGTH 0.45335083571651
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.04566377983682 1 1 0 0
+      FADEOUT 1.1 0.01 0.03176535747728 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {29D4639E-1E0A-6947-A842-8C21ACE1367B}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.27898512967171
+      PLAYRATE 0.45 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B7DD8E1A-9F5D-024B-B8B3-27330C9B8CAA}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 5.71950220537702
+      SNAPOFFS 0
+      LENGTH 0.28049779462298
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.03176535747728 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D63C8861-32F3-0142-976A-69B3B379AA80}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.25799300574589
+      PLAYRATE 0.8 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {92ECAF4D-F941-F548-B01E-40048AF615DD}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 6
+      SNAPOFFS 0
+      LENGTH 0.21950220537313
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0.01 0.04598486958463 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F9D54759-6535-524D-A8C5-32B7551C10C1}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.38421701332623
+      PLAYRATE 0.45 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6C2793E4-52B9-1949-AFFA-9E989208410B}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 6.17351733578699
+      SNAPOFFS 0
+      LENGTH 0.45335083571652
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.04598486958463 1 1 0 0
+      FADEOUT 1.1 0.01 0.04103097238364 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6BE076F1-6A43-9A4B-B2D7-9ADB384FD106}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.27898512967171
+      PLAYRATE 0.45 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1146A4C3-04C9-2E43-BF8F-135D016F9C8D}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 6.58583719911849
+      SNAPOFFS 0
+      LENGTH 0.45335083571652
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.04103097238364 1 1 0 0
+      FADEOUT 1.1 0.01 0.03918803483501 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {16AD9F8E-71E5-1442-8CE1-A18C313AAFC5}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.27898512967171
+      PLAYRATE 0.45 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3F76A4A9-9090-FC4D-A268-F0167A4BCAB5}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 7
+      SNAPOFFS 0
+      LENGTH 0.45335083571652
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.03918803483501 1 1 0 0
+      FADEOUT 1.1 0.01 0.04566377983682 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {19FD4DE2-80DA-6949-87CC-CF76FA36D385}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.27898512967171
+      PLAYRATE 0.45 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6A4C8F47-9DC2-B94C-BA51-66A2264EFADC}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 7.40768705587834
+      SNAPOFFS 0
+      LENGTH 0.42158547823783
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.04566377983682 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {65996C4F-770E-4041-9475-C151B1D94466}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.27898512967171
+      PLAYRATE 0.45 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CD0EED76-EA95-D348-859C-863AC5E3D568}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 7.82927253411617
+      SNAPOFFS 0
+      LENGTH 0.17072746588383
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F5FFAA1C-56B0-9642-AAE1-95E5FB5479F0}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.25799300574589
+      PLAYRATE 0.45 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {26B7BE51-4612-6A44-A1A4-0F63A88BE0D0}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 8
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0892AF08-CC5B-F143-8B50-C804731DCB5C}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.5
+      PLAYRATE 0.6 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {50AAF65A-5BC2-974B-9F97-49F573648CE7}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 8.5
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5B2B97F6-7E4A-4044-9FA9-96FD98B90639}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.5
+      PLAYRATE 0.5 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {47E7EA1A-C9F9-5B43-BACB-B24A898609B3}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 9
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FDC5B564-D980-F24B-BDAA-4C2E7132AC7D}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.5
+      PLAYRATE 0.4 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3CC547B7-5F6A-A641-8BC2-A3866D553FF7}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 9.5
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.22697117628191 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FACC2A2B-1233-294F-8C21-16FC9008C9E8}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4.5
+      PLAYRATE 0.3 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {68302957-359F-F248-B612-03B874791673}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+  >
+  <TRACK {DF333032-1465-5C4F-B920-13BF0DB19024}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {DF333032-1465-5C4F-B920-13BF0DB19024}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0.5
+      SNAPOFFS 0
+      LENGTH 0.10717485190928
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4330F71F-42C4-214F-BE57-35B21B63F620}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 5.623413 -1
+      SOFFS 1.17285686995064
+      PLAYRATE 0.1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9620A96B-72AA-C24D-A0B3-EBAEBE023644}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 1
+      SNAPOFFS 0
+      LENGTH 0.10717485190928
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3D829B8F-E154-EE4C-B5E9-328746598B86}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 5.623413 -1
+      SOFFS 1.17285686995064
+      PLAYRATE 0.1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E2EE9719-0D5A-714A-84E5-90C5F9D4C071}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 1.5
+      SNAPOFFS 0
+      LENGTH 0.10717485190928
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3411C350-DC3C-0246-B6DF-00F1550D3C31}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 5.623413 -1
+      SOFFS 1.17285686995064
+      PLAYRATE 0.1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {23DDE5A4-9381-2C4A-9E32-5429D824EE4D}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 2
+      SNAPOFFS 0
+      LENGTH 0.10717485190928
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3738A0F7-35EB-C74C-92F6-C3AC3BFF38F0}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 5.623413 -1
+      SOFFS 1.17285686995064
+      PLAYRATE 0.1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C2ABE771-55B7-3040-B3F7-8090D6B7CACB}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 2.37864787655417
+      SNAPOFFS 0
+      LENGTH 0.10717485190928
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8C383B53-655D-EB46-A7D9-43B6B4545C6C}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 5.623413 -1
+      SOFFS 1.17285686995064
+      PLAYRATE 0.1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {97C676BF-1DD6-3945-A80A-2264B6F7ED53}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 2.87864787655417
+      SNAPOFFS 0
+      LENGTH 0.10717485190928
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {27AACF32-2EC7-F14B-B33A-9DDF94B85FE3}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 5.623413 -1
+      SOFFS 1.17285686995064
+      PLAYRATE 0.1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {00653E11-DD24-4E45-9E17-F28B720C3051}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 3.37864787655417
+      SNAPOFFS 0
+      LENGTH 0.10717485190928
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CBF47E70-2788-754E-B93E-B6E33FA4477A}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 5.623413 -1
+      SOFFS 1.17285686995064
+      PLAYRATE 0.1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6D291D4C-B41F-2147-ACB2-D6DB91E0477C}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 3.87864787655417
+      SNAPOFFS 0
+      LENGTH 0.10717485190928
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9CFEA72E-FF31-CC4F-9052-F703E33270C7}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 5.623413 -1
+      SOFFS 1.17285686995064
+      PLAYRATE 0.1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5EAD7A63-E1BD-1B41-B407-42E7A2F2F2AD}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 4.5
+      SNAPOFFS 0
+      LENGTH 0.10717485190928
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D14804A8-5553-C642-80E8-EF648A265793}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 5.623413 -1
+      SOFFS 1.17285686995064
+      PLAYRATE 0.1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DB2C8727-2996-7B4A-A097-585928447972}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 5
+      SNAPOFFS 0
+      LENGTH 0.10717485190928
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FE629A4B-322D-7248-9AFE-F236DB999730}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 5.623413 -1
+      SOFFS 1.17285686995064
+      PLAYRATE 0.1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {356C7549-5901-4D47-86B9-A3A57E64C798}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 5.5
+      SNAPOFFS 0
+      LENGTH 0.10717485190928
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6BA2A5BC-C914-2F48-87A9-2142000D72F3}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 5.623413 -1
+      SOFFS 1.17285686995064
+      PLAYRATE 0.1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3FF2BF03-CE20-7D4D-BF3F-0A552222D1BE}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 6
+      SNAPOFFS 0
+      LENGTH 0.10717485190928
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8E207B5D-5591-F24A-B9E4-5E6EB3345958}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 5.623413 -1
+      SOFFS 1.17285686995064
+      PLAYRATE 0.1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E3FF1AF3-E0CB-D446-8020-34E18BA50566}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 6.5
+      SNAPOFFS 0
+      LENGTH 0.10717485190928
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AA04790B-6937-C848-B774-82C4150BA632}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 5.623413 -1
+      SOFFS 1.17285686995064
+      PLAYRATE 0.1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DE00A9B1-A6A2-B44B-81EB-91299C172B0E}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 7
+      SNAPOFFS 0
+      LENGTH 0.10717485190928
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B5C534BD-D40F-B745-AF2D-E89A01F9D3D6}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 5.623413 -1
+      SOFFS 1.17285686995064
+      PLAYRATE 0.1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {49322718-3F58-2B48-9666-BAB976FAEB4F}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 7.5
+      SNAPOFFS 0
+      LENGTH 0.10717485190928
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0985D52D-F172-8945-8C9A-D7D3EA3157B5}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 5.623413 -1
+      SOFFS 1.17285686995064
+      PLAYRATE 0.1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {837A8B35-3A76-804C-BC7C-0CC7FC220E90}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+    <ITEM
+      POSITION 8
+      SNAPOFFS 0
+      LENGTH 0.10717485190928
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {203992E2-C29E-C44E-9142-ABDD39EE1140}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 5.623413 -1
+      SOFFS 1.17285686995064
+      PLAYRATE 0.1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CFF4EF51-A178-0B48-B25B-4AA4650246DA}
+      <SOURCE WAVE
+        FILE "Media/C01-S05-peeling-tape.wav"
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+  >
+  <TRACK {BA30801B-7098-8D40-92D5-8F75D7C4F344}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {BA30801B-7098-8D40-92D5-8F75D7C4F344}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 7.5
+      SNAPOFFS 0
+      LENGTH 2.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.56226893349056 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5A939269-9DA1-8743-9967-EAA33D24B57E}
+      IID 3979
+      NAME C01-S05-peeling-tape.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.12 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {41A6155A-29AC-CC4D-9D24-B249F8ADC115}
+      <SOURCE SECTION
+        LENGTH 0.3
+        MODE 3
+        STARTPOS 1.46148343193974
+        OVERLAP 0.01
+        <SOURCE WAVE
+          FILE "Media/C01-S05-peeling-tape.wav"
+        >
+      >
+      <EXT
+        ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C01/C01-S05-peeling-tape.wav
+      >
+    >
+  >
+>

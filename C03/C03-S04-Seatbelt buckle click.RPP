@@ -1,0 +1,780 @@
+<REAPER_PROJECT 0.1 "7.80/macOS-arm64" 1790451980 0
+  <NOTES 0 2
+  >
+  RIPPLE 0 0
+  GROUPOVERRIDE 0 0 0 0
+  AUTOXFADE 129
+  ENVATTACH 3
+  POOLEDENVATTACH 0
+  TCPUIFLAGS 0
+  MIXERUIFLAGS 11 48 0
+  ENVFADESZ10 40
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 0
+  GRID 3455 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1 0
+  VIDEO_CONFIG 0 0 65792
+  PANMODE 3
+  PANLAWFLAGS 3
+  CURSOR 3.03621880619616
+  ZOOM 30.63020353151442 0 0
+  VZOOMEX 4.3729167 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "Media" ""
+  <RECORD_CFG
+    ZXZhdxgAAQ==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN $project
+  RENDER_FMT 0 2 44100
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 0 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  RENDER_TRIM 0.000001 0.000001 0 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxAAAQ==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    BEATLEN 4
+    FREQ 1760 880 1
+    SAMPLES "" "" "" ""
+    SPLIGNORE 0 0
+    SPLDEF 2 660 "" 0 ""
+    SPLDEF 3 440 "" 0 ""
+    PATTERN 0 169
+    PATTERNSTR ABBB
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4 0
+  PLAYRATE 1 0 0.25 4
+  SELECTION 4.48045959134664 4.48045959134664
+  SELECTION2 4.48045959134664 4.48045959134664
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0 0 1
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_PANLAWFLAGS 3
+  MASTER_FX 1
+  MASTER_TRACKID {D1094899-0249-994E-AF5A-BBBAD3C92EC7}
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {901C0173-CCE7-0A46-8434-327006A3A7ED}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {7517DA2D-7F4E-224B-88FB-406CB3FD6A46}
+    ACT 1 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  RULERHEIGHT 86 86
+  RULERLANE 1 4 "" 0 -1 0
+  RULERLANE 2 8 "" 0 -1 0
+  <PROJBAY
+  >
+  <TRACK {4D3DD0D2-0AC3-C64A-8DAB-6E350FDD2BC4}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {4D3DD0D2-0AC3-C64A-8DAB-6E350FDD2BC4}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.06782540713149
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {ECB9DAC6-585E-F84E-BA72-4634298EBC6B}
+      IID 5824
+      NAME "C02-SO1-Seatbelt buckle click .wav"
+      VOLPAN 1 0 0.398107 -1
+      SOFFS 0
+      PLAYRATE 0.1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6DB3CCC1-A7D4-D64D-A6B2-B1CA8EE4FAEB}
+      <SOURCE WAVE
+        FILE "/Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C02/C02-SO1-Seatbelt buckle click .wav"
+      >
+    >
+    <ITEM
+      POSITION 0.9849428688176
+      SNAPOFFS 0
+      LENGTH 0.06782540713149
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {78589A66-CBFF-664D-8088-8173B420BEA7}
+      IID 5824
+      NAME "C02-SO1-Seatbelt buckle click .wav"
+      VOLPAN 1 0 0.398107 -1
+      SOFFS 0
+      PLAYRATE 0.1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2349F90F-B5C2-D34E-B839-98BB803B317A}
+      <SOURCE WAVE
+        FILE "/Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C02/C02-SO1-Seatbelt buckle click .wav"
+      >
+    >
+    <ITEM
+      POSITION 2.4153589012567
+      SNAPOFFS 0
+      LENGTH 0.06782540713149
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9E0EF4FA-CEFC-A540-BF32-FA579326C2FD}
+      IID 5824
+      NAME "C02-SO1-Seatbelt buckle click .wav"
+      VOLPAN 1 0 0.501187 -1
+      SOFFS 0
+      PLAYRATE 0.1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4FB8E8DD-C871-C34F-9D3E-D0E4C96F8B0A}
+      <SOURCE WAVE
+        FILE "/Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C02/C02-SO1-Seatbelt buckle click .wav"
+      >
+    >
+    <ITEM
+      POSITION 3.5368597751949
+      SNAPOFFS 0
+      LENGTH 0.06782540713149
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1BC9F1ED-19D3-8A46-938D-439A44DB7A4D}
+      IID 5824
+      NAME "C02-SO1-Seatbelt buckle click .wav"
+      VOLPAN 1 0 0.707946 -1
+      SOFFS 0
+      PLAYRATE 0.1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {57CC5B9C-3F41-DB4F-B85E-84D78F8B6ED2}
+      <SOURCE WAVE
+        FILE "/Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C02/C02-SO1-Seatbelt buckle click .wav"
+      >
+    >
+    <ITEM
+      POSITION 4.50623681140132
+      SNAPOFFS 0
+      LENGTH 0.06782540713149
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7E723450-2A5B-B849-BECF-061DB733D356}
+      IID 5824
+      NAME "C02-SO1-Seatbelt buckle click .wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C034529A-B6A0-B446-B2E3-7101469DEC6F}
+      <SOURCE WAVE
+        FILE "/Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C02/C02-SO1-Seatbelt buckle click .wav"
+      >
+    >
+    <ITEM
+      POSITION 4.7689731157152
+      SNAPOFFS 0
+      LENGTH 0.06782540713149
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.00115094503763 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {66E207ED-3521-264A-AED3-D7DB7E74393C}
+      IID 5824
+      NAME "C02-SO1-Seatbelt buckle click .wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {70A1A1D2-85DE-994E-995D-756CFF0A1962}
+      <SOURCE WAVE
+        FILE "/Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C02/C02-SO1-Seatbelt buckle click .wav"
+      >
+    >
+    <ITEM
+      POSITION 5.03826962923631
+      SNAPOFFS 0
+      LENGTH 0.06782540713149
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.00115094503763 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {212B4CD1-52A4-904D-88D3-F66239EE4D6C}
+      IID 5824
+      NAME "C02-SO1-Seatbelt buckle click .wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {892B069A-1ABC-9A46-B002-AFFD877DA5CE}
+      <SOURCE WAVE
+        FILE "/Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C02/C02-SO1-Seatbelt buckle click .wav"
+      >
+    >
+    <ITEM
+      POSITION 5.30957125779241
+      SNAPOFFS 0
+      LENGTH 0.06782540713149
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.00115094503763 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6C4182A4-2487-A64C-87A6-C145ED13D290}
+      IID 5824
+      NAME "C02-SO1-Seatbelt buckle click .wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A975EF62-18EA-794C-8645-4115685158B5}
+      <SOURCE WAVE
+        FILE "/Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C02/C02-SO1-Seatbelt buckle click .wav"
+      >
+    >
+    <ITEM
+      POSITION 5.58087288634852
+      SNAPOFFS 0
+      LENGTH 0.06782540713149
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.00115094503763 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6AF86D03-E12C-B74D-B01C-9F9820A04C9E}
+      IID 5824
+      NAME "C02-SO1-Seatbelt buckle click .wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9064FDA6-A3D3-6340-A05E-19954880D5F3}
+      <SOURCE WAVE
+        FILE "/Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C02/C02-SO1-Seatbelt buckle click .wav"
+      >
+    >
+    <ITEM
+      POSITION 5.8521745147882
+      SNAPOFFS 0
+      LENGTH 0.06782540713149
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.00115094503763 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {878B4F6D-E0C7-BE46-A8F8-1FC8AAF1C493}
+      IID 5824
+      NAME "C02-SO1-Seatbelt buckle click .wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {75542E2A-6588-254F-A76D-38CB26548F23}
+      <SOURCE WAVE
+        FILE "/Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C02/C02-SO1-Seatbelt buckle click .wav"
+      >
+    >
+    <ITEM
+      POSITION 6.12347614334431
+      SNAPOFFS 0
+      LENGTH 0.06782540713149
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.00115094503763 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E32E6B9B-0E5E-5546-8BF7-6EF24A715570}
+      IID 5824
+      NAME "C02-SO1-Seatbelt buckle click .wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A5659266-F521-464D-B1DF-1945A42B22B7}
+      <SOURCE WAVE
+        FILE "/Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C02/C02-SO1-Seatbelt buckle click .wav"
+      >
+    >
+    <ITEM
+      POSITION 6.39477777190041
+      SNAPOFFS 0
+      LENGTH 0.06782540713149
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.00115094503763 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5CFB4A0E-5182-1942-A0C0-947BF83B94C3}
+      IID 5824
+      NAME "C02-SO1-Seatbelt buckle click .wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7BB1EAC9-7EB9-8F48-A1BD-702DE7B3C917}
+      <SOURCE WAVE
+        FILE "/Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C02/C02-SO1-Seatbelt buckle click .wav"
+      >
+    >
+    <ITEM
+      POSITION 6.66607940045651
+      SNAPOFFS 0
+      LENGTH 0.06782540713149
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.00115094503763 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F852E83C-12BD-9147-A577-A22ACD166109}
+      IID 5824
+      NAME "C02-SO1-Seatbelt buckle click .wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {481E441F-6E51-884B-AB99-676200B0F4DF}
+      <SOURCE WAVE
+        FILE "/Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C02/C02-SO1-Seatbelt buckle click .wav"
+      >
+    >
+    <ITEM
+      POSITION 6.9373810288962
+      SNAPOFFS 0
+      LENGTH 0.06782540713149
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.00115094503763 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5EA65EB1-6757-E645-B45E-08F7FBE53019}
+      IID 5824
+      NAME "C02-SO1-Seatbelt buckle click .wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6E3D7A6B-A461-6447-868C-790BC43B7C69}
+      <SOURCE WAVE
+        FILE "/Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C02/C02-SO1-Seatbelt buckle click .wav"
+      >
+    >
+    <ITEM
+      POSITION 7.19294327055104
+      SNAPOFFS 0
+      LENGTH 0.06782540713149
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B06EEF6D-5F68-6A45-B63E-E9B7F62D8522}
+      IID 5824
+      NAME "C02-SO1-Seatbelt buckle click .wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0E1FD76D-A792-FA4E-91A9-BC32AD67D5FA}
+      <SOURCE WAVE
+        FILE "/Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C02/C02-SO1-Seatbelt buckle click .wav"
+      >
+    >
+    <ITEM
+      POSITION 7.45567957486492
+      SNAPOFFS 0
+      LENGTH 0.06782540713149
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.00115094503763 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1AC62D51-D791-7F46-9116-89AC7B3CB1B6}
+      IID 5824
+      NAME "C02-SO1-Seatbelt buckle click .wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6521D9D7-214B-E54F-9DEC-A10E6A87F78F}
+      <SOURCE WAVE
+        FILE "/Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C02/C02-SO1-Seatbelt buckle click .wav"
+      >
+    >
+    <ITEM
+      POSITION 7.72497608838603
+      SNAPOFFS 0
+      LENGTH 0.06782540713149
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.00115094503763 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CFF056EC-2216-274C-96E1-CFEE19511875}
+      IID 5824
+      NAME "C02-SO1-Seatbelt buckle click .wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F1CC2C05-E376-E946-A591-6E5FFD7CCD5A}
+      <SOURCE WAVE
+        FILE "/Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C02/C02-SO1-Seatbelt buckle click .wav"
+      >
+    >
+    <ITEM
+      POSITION 7.99627771694213
+      SNAPOFFS 0
+      LENGTH 0.06782540713149
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.00115094503763 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {46F27656-DA97-4B4A-B780-FC1713D097B9}
+      IID 5824
+      NAME "C02-SO1-Seatbelt buckle click .wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4CA9BB7C-2301-4A48-B234-3166762824F6}
+      <SOURCE WAVE
+        FILE "/Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C02/C02-SO1-Seatbelt buckle click .wav"
+      >
+    >
+    <ITEM
+      POSITION 8.26757934549823
+      SNAPOFFS 0
+      LENGTH 0.06782540713149
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.00115094503763 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {01589DFF-A46A-C04A-9EA8-7481647DE925}
+      IID 5824
+      NAME "C02-SO1-Seatbelt buckle click .wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DEC7FBBF-BFB5-B44A-A175-A7390B905B14}
+      <SOURCE WAVE
+        FILE "/Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C02/C02-SO1-Seatbelt buckle click .wav"
+      >
+    >
+    <ITEM
+      POSITION 8.53888097393792
+      SNAPOFFS 0
+      LENGTH 0.06782540713149
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.00115094503763 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {853C15D9-751D-9C47-9FBA-44B10255DA56}
+      IID 5824
+      NAME "C02-SO1-Seatbelt buckle click .wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {301B0606-2AA3-4244-9CCB-064349C6AC90}
+      <SOURCE WAVE
+        FILE "/Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C02/C02-SO1-Seatbelt buckle click .wav"
+      >
+    >
+    <ITEM
+      POSITION 8.81018260249402
+      SNAPOFFS 0
+      LENGTH 0.09748140465563
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.00115094503763 1 1 0 0
+      FADEOUT 1 0.096330459618 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {14295041-4985-3B4C-88D1-567F6707C56D}
+      IID 5824
+      NAME "C02-SO1-Seatbelt buckle click .wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C238E549-F6EB-C24B-98DE-0A91396E077E}
+      <SOURCE WAVE
+        FILE "/Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C02/C02-SO1-Seatbelt buckle click .wav"
+      >
+    >
+    <ITEM
+      POSITION 9.1117615419856
+      SNAPOFFS 0
+      LENGTH 0.02654509884823
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {247F8A9E-C256-854E-BEE5-89E84A6A0ADF}
+      IID 5940
+      NAME "C02-SO1-Seatbelt buckle click .wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.9 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B67AB4A3-2CD7-9E4F-9245-E42649C40E1B}
+      <SOURCE WAVE
+        FILE "/Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C02/C02-SO1-Seatbelt buckle click .wav"
+      >
+    >
+  >
+  <TRACK {DEB03B95-6733-BE4C-9F37-085A9A878491}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {DEB03B95-6733-BE4C-9F37-085A9A878491}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 3.97376124931132
+      SNAPOFFS 0
+      LENGTH 2.53879190928223
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.52738189419872 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BFFB25E2-B603-DD42-957B-B69E2FA12133}
+      IID 5921
+      NAME "C02-SO1-Seatbelt buckle click -glued-03.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DBF9F1C9-5F1C-DC42-A234-98DB8926187D}
+      <SOURCE WAVE
+        FILE "/Users/xueyi/Documents/REAPER Media/C02-SO1-Seatbelt buckle click -glued-03.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.51255315859355
+      SNAPOFFS 0
+      LENGTH 0.21250243470587
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9B33C2F5-DC15-BB46-B732-530D338F6C06}
+      IID 5921
+      NAME "C02-SO1-Seatbelt buckle click -glued-03.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.53879190928223
+      PLAYRATE 1.8 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {653E6B92-A9A4-1B49-9CDE-4CDD27B9126D}
+      <SOURCE WAVE
+        FILE "/Users/xueyi/Documents/REAPER Media/C02-SO1-Seatbelt buckle click -glued-03.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.7526951905209
+      SNAPOFFS 0
+      LENGTH 0.48997785243045
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0.01 0.0014388113156 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F41F01FC-1AA6-374A-9E6A-31F74CC3920E}
+      IID 5921
+      NAME "C02-SO1-Seatbelt buckle click -glued-03.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 3.03919147401032
+      PLAYRATE 0.4 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {02E10B4D-9903-FF44-9309-04248C552C30}
+      <SOURCE WAVE
+        FILE "/Users/xueyi/Documents/REAPER Media/C02-SO1-Seatbelt buckle click -glued-03.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.24123423163575
+      SNAPOFFS 0
+      LENGTH 0.50541832980679
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.0014388113156 1 1 0 0
+      FADEOUT 1.1 0.01 0.12544352005079 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {07AD4A51-36AC-EA49-93A6-F92A45EBDAF3}
+      IID 5921
+      NAME "C02-SO1-Seatbelt buckle click -glued-03.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 3.52916932644078
+      PLAYRATE 2.2 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {400E5F0E-6337-304F-88C3-932E7A125CCD}
+      <SOURCE WAVE
+        FILE "/Users/xueyi/Documents/REAPER Media/C02-SO1-Seatbelt buckle click -glued-03.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.62120904139175
+      SNAPOFFS 0
+      LENGTH 1.96618160189997
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.12544352005079 1 1 0 0
+      FADEOUT 1 0.69760073178906 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9A12A628-A0CF-E148-8880-00BF02AAA87D}
+      IID 5921
+      NAME "C02-SO1-Seatbelt buckle click -glued-03.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 4.03458765624757
+      PLAYRATE 1 0 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2F2BDF72-CF9B-F940-A9F3-11CC9C766FE6}
+      <SOURCE WAVE
+        FILE "/Users/xueyi/Documents/REAPER Media/C02-SO1-Seatbelt buckle click -glued-03.wav"
+      >
+    >
+  >
+  <TRACK {5EDD8D6B-9AA1-9342-A859-3DB0679EA09E}
+    NAME "C02-SO1-Seatbelt buckle click"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {5EDD8D6B-9AA1-9342-A859-3DB0679EA09E}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+  >
+>
