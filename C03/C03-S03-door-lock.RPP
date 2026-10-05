@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.80/macOS-arm64" 1790377540 0
+<REAPER_PROJECT 0.1 "7.80/macOS-arm64" 1790963019 0
   <NOTES 0 2
   >
   RIPPLE 0 0
@@ -19,8 +19,8 @@
   VIDEO_CONFIG 0 0 65792
   PANMODE 3
   PANLAWFLAGS 3
-  CURSOR 4.5
-  ZOOM 37.25615504121222 0 0
+  CURSOR 5
+  ZOOM 75.19163877492926 0 0
   VZOOMEX 2.59682012 0
   USE_REC_CFG 0
   RECMODE 1
@@ -154,7 +154,7 @@
       CHANMODE 0
       GUID {9FA05B16-C43A-AD4B-836D-5A92A155ACB6}
       <SOURCE WAVE
-        FILE "Media/C02-S03-door-lock.wav"
+        FILE "/Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C02/C02-S03-door-lock.wav"
       >
       <EXT
         ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C02/C02-S03-door-lock.wav
@@ -211,7 +211,7 @@
       CHANMODE 0
       GUID {AF0D7209-1D37-C644-8CBF-B606FC3ECB31}
       <SOURCE WAVE
-        FILE "Media/C02-S03-door-lock.wav"
+        FILE "/Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C02/C02-S03-door-lock.wav"
       >
       <EXT
         ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C02/C02-S03-door-lock.wav
@@ -268,7 +268,7 @@
         STARTPOS 0
         OVERLAP 0.01
         <SOURCE WAVE
-          FILE "Media/C02-S03-door-lock.wav"
+          FILE "/Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C02/C02-S03-door-lock.wav"
         >
       >
       <EXT
@@ -290,6 +290,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
     FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 64
@@ -325,7 +326,7 @@
         STARTPOS 0
         OVERLAP 0.01
         <SOURCE WAVE
-          FILE "Media/C02-S03-door-lock.wav"
+          FILE "/Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C02/C02-S03-door-lock.wav"
         >
       >
       <EXT
@@ -347,7 +348,8 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
     FIXEDLANES 9 0 0 0 0
-    SEL 1
+    LANEREC -1 -1 -1 0
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 64
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -377,7 +379,7 @@
       CHANMODE 0
       GUID {8719B446-1435-6347-AC07-FC88A694F062}
       <SOURCE WAVE
-        FILE "Media/C02-S03-door-lock.wav"
+        FILE "/Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C02/C02-S03-door-lock.wav"
       >
       <EXT
         ORIGINAL_FILENAME /Users/xueyi/Documents/GitHub/FFAR249/CART346-OSaD/C02/C02-S03-door-lock.wav
@@ -398,7 +400,8 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
     FIXEDLANES 9 0 0 0 0
-    SEL 0
+    LANEREC -1 -1 -1 0
+    SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 64
     TRACKHEIGHT 0 0 0 0 0 0 0
