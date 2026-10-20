@@ -22,7 +22,7 @@
    - License: CC0
 
 3. DR Hi Hat 111 — deadrobotmusic
-   - Source: https://freesound.org/people/deadrobotmusic/sounds/588117/?utm_source=chatgpt.com
+   - Source: https://freesound.org/people/deadrobotmusic/sounds/588117/
    - License: CC0
 
 
@@ -42,15 +42,15 @@
 
 ## S04 — Equal Chance
 1. kick 1 brief — Logicogonist
-   - Source: [https://freesound.org/people/Logicogonist/sounds/808248/
+   - Source: https://freesound.org/people/Logicogonist/sounds/808248/
    - License: CC0
 
 2. Clap 1.wav — Sorinious_Genious
-   - Source: [https://freesound.org/people/Sorinious_Genious/sounds/561089/
+   - Source: https://freesound.org/people/Sorinious_Genious/sounds/561089/
    - License: CC0
 
 3. Mini Open Hihat — Rodrigo The Mad
-   - Source: [https://freesound.org/people/Rodrigo%20The%20Mad/sounds/165027/
+   - Source: https://freesound.org/people/Rodrigo%20The%20Mad/sounds/165027/
    - License: CC0
 
 
