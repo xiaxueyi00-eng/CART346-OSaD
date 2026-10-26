@@ -9,7 +9,7 @@
             "modernui": 1
         },
         "classnamespace": "box",
-        "rect": [ 208.0, 101.0, 880.0, 916.0 ],
+        "rect": [ 241.0, 101.0, 880.0, 916.0 ],
         "boxes": [
             {
                 "box": {
@@ -2032,8 +2032,8 @@
                     "numinlets": 1,
                     "numoutlets": 2,
                     "outlettype": [ "float", "bang" ],
-                    "patching_rect": [ 1183.0, 97.0, 171.0, 22.0 ],
-                    "text": "buffer~ kk C05-S01-Pluse.wav"
+                    "patching_rect": [ 1183.0, 97.0, 115.0, 22.0 ],
+                    "text": "buffer~ kk day1.wav"
                 }
             },
             {
