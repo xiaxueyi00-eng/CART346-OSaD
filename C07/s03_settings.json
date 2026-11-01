@@ -1,0 +1,17 @@
+{
+    "pattrstorage": {
+        "name": "s03_settings",
+        "slots": {
+            "1": {
+                "id": 1,
+                "data": {
+                    "freq1": [ 220.0 ],
+                    "freq2": [ 330.0 ],
+                    "freq3": [ 165.0 ],
+                    "freq4": [ 495.0 ],
+                    "vector_position": [ 57, 59 ]
+                }
+            }
+        }
+    }
+}
