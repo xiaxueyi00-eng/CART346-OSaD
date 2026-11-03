@@ -50,7 +50,7 @@ const SOUND_DIR = '../assets/';
 // The sound buttons of Free mode, in button order
 const LOOP_SOUNDS = [
   'demo/1', 'demo/2', 'demo/3', 'demo/4', 'demo/5',
-  'demo/karateka', 'demo/door', 'demo/wall-thump', 'demo/cowbell-minipops', 'demo/sound-one',
+  'demo/karateka', 'demo/door', 'demo/wall-thump', 'demo/cowbell-minipops', 'demo/sound',
 ];
 
 // Credit line for every score made from the Productions Totem Contemporain sounds
