@@ -141,4 +141,56 @@ const SCORES = [
       { at: '5:00', groups: 'all', stop: 'all', fade: 1 },
     ],
   },
+
+  {
+    title: 'C08 · Radio Rainstorm',
+    credit: 'All sounds created and recorded by Xueyi Xia.',
+    groups: 3,
+    events: [
+      // 0:00 — Wind starts quietly in group A
+      {
+        at: '0:00', groups: 'A',
+        play: 'xiaxueyi00/C08-S01-wind',
+        ratio: 1.005, fade: 8, level: 0.5
+      },
+
+      // 0:15 — Water drops enter in group B
+      {
+        at: '0:15', groups: 'B',
+        play: 'xiaxueyi00/C08-S02-drop',
+        ratio: 1.01, fade: 8, level: 0.6
+      },
+
+      // 0:30 — Crushing can enters in group C
+      {
+        at: '0:30', groups: 'C',
+        play: 'xiaxueyi00/C08-S03-crushing-can',
+        ratio: 1.02, fade: 5, level: 0.5
+      },
+
+      // 0:45 — Paper sounds join group A
+      {
+        at: '0:45', groups: 'A',
+        play: 'xiaxueyi00/C08-S04-paper-crumpling',
+        ratio: 1.015, fade: 5, level: 0.5
+      },
+
+      // 1:00 — Radio interference joins group B
+      {
+        at: '1:00', groups: 'B',
+        play: 'xiaxueyi00/C08-S05-radio-interference_FAV',
+        ratio: 1.02, fade: 10, level: 0.5
+      },
+
+      // 1:15 — Groups begin drifting apart
+      { at: '1:15', spread: 1.02, glide: 15 },
+
+      // 1:30 — More phasing within each group
+      { at: '1:30', groups: 'all', ratio: 1.03, glide: 10 },
+
+      // 1:45 — Gradual fade out of all sounds
+      { at: '1:45', groups: 'all', stop: 'all', fade: 15 },
+    ],
+    end: '2:00',
+  },
 ];
