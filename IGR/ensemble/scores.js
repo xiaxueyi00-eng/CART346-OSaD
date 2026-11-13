@@ -142,49 +142,121 @@ const SCORES = [
     ],
   },
 
+  //  {
+  //     title: 'C08 · Radio Rainstorm',
+  //     credit: 'All sounds created and recorded by Xueyi Xia.',
+  //     groups: 3,
+  //     events: [
+
+  //       {
+  //         at: '0:00', groups: 'A',
+  //         play: 'xiaxueyi00-eng/C08-S01-wind',
+  //         ratio: 1.005, fade: 8, level: 0.5
+  //       },
+
+  //       {
+  //         at: '0:15', groups: 'B',
+  //         play: 'xiaxueyi00-eng/C08-S02-drop',
+  //         ratio: 1.01, fade: 8, level: 0.6
+  //       },
+
+  //       {
+  //         at: '0:30', groups: 'C',
+  //         play: 'xiaxueyi00-eng/C08-S03-crushing-can',
+  //         ratio: 1.02, fade: 5, level: 0.5
+  //       },
+
+  //       {
+  //         at: '0:45', groups: 'A',
+  //         play: 'xiaxueyi00-eng/C08-S04-paper-crumpling',
+  //         ratio: 1.015, fade: 5, level: 0.5
+  //       },
+
+  //       {
+  //         at: '1:00', groups: 'B',
+  //         play: 'xiaxueyi00-eng/C08-S05-radio-interference_FAV',
+  //         ratio: 1.02, fade: 10, level: 0.5
+  //       },
+
+
+  //       { at: '1:15', spread: 1.02, glide: 15 },
+
+  //       { at: '1:30', groups: 'all', ratio: 1.03, glide: 10 },
+
+  //       { at: '1:45', groups: 'all', stop: 'all', fade: 15 },
+  //     ],
+  //     end: '2:00',
+  //   }
+
+
   {
-    title: 'C08 · Radio Rainstorm',
+    title: 'C09 · ',
     credit: 'All sounds created and recorded by Xueyi Xia.',
-    groups: 3,
+    groups: 4,
+
     events: [
-
       {
-        at: '0:00', groups: 'A',
-        play: 'xiaxueyi00-eng/C08-S01-wind',
-        ratio: 1.005, fade: 8, level: 0.5
+        at: '0:00',
+        groups: 'A',
+        play: 'yourgithubusername/C09-S01-pulse',
+        ratio: 1.0,
+        fade: 2
       },
 
       {
-        at: '0:15', groups: 'B',
-        play: 'xiaxueyi00-eng/C08-S02-drop',
-        ratio: 1.01, fade: 8, level: 0.6
+        at: '0:15',
+        groups: 'B',
+        play: 'yourgithubusername/C09-S01-pulse',
+        ratio: 1.005,
+        fade: 4
       },
 
       {
-        at: '0:30', groups: 'C',
-        play: 'xiaxueyi00-eng/C08-S03-crushing-can',
-        ratio: 1.02, fade: 5, level: 0.5
+        at: '0:30',
+        groups: 'C',
+        play: 'yourgithubusername/C09-S02-echo',
+        ratio: 1.01,
+        fade: 5
       },
 
       {
-        at: '0:45', groups: 'A',
-        play: 'xiaxueyi00-eng/C08-S04-paper-crumpling',
-        ratio: 1.015, fade: 5, level: 0.5
+        at: '0:50',
+        groups: 'D',
+        play: 'yourgithubusername/C09-S03-drift_FAV',
+        ratio: 1.0,
+        fade: 4
       },
 
       {
-        at: '1:00', groups: 'B',
-        play: 'xiaxueyi00-eng/C08-S05-radio-interference_FAV',
-        ratio: 1.02, fade: 10, level: 0.5
+        at: '1:10',
+        spread: 1.01,
+        glide: 20
       },
 
+      {
+        at: '1:30',
+        groups: 'A',
+        play: 'yourgithubusername/C09-S04-wahwah',
+        ratio: 0.99,
+        fade: 5
+      },
 
-      { at: '1:15', spread: 1.02, glide: 15 },
+      {
+        at: '1:50',
+        groups: 'B',
+        play: 'yourgithubusername/C09-S05-voltage',
+        ratio: 1.02,
+        fade: 5
+      },
 
-      { at: '1:30', groups: 'all', ratio: 1.03, glide: 10 },
-
-      { at: '1:45', groups: 'all', stop: 'all', fade: 15 },
+      {
+        at: '2:20',
+        groups: 'all',
+        stop: 'all',
+        fade: 10
+      }
     ],
-    end: '2:00',
+
+    end: '2:30'
   },
 ];
