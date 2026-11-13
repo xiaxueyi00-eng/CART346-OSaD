@@ -212,7 +212,7 @@ const SCORES = [
       },
 
       {
-        at: '0:30',
+        at: '0:15',
         groups: 'C',
         play: 'xiaxueyi00-eng/C09-S02-echo',
         ratio: 1.01,
