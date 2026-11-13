@@ -232,21 +232,22 @@ const SCORES = [
       },
 
       // Replace Pulse with Voltage
+      // S05 Voltage - Play for 5 seconds
       {
         at: '0:55',
         groups: 'B',
         play: 'xiaxueyi00-eng/C09-S05-voltage',
         ratio: 1.005,
-        fade: 4
+        fade: 1
       },
 
-      // Gradual phasing
+      // Fade out S05
       {
-        at: '1:10',
-        spread: 1.01,
-        glide: 20
+        at: '0:59',
+        groups: 'B',
+        stop: 'all',
+        fade: 1
       },
-
       // Favorite sound enters
       {
         at: '1:20',
