@@ -195,118 +195,246 @@ const SCORES = [
     groups: 4,
 
     events: [
-      // Add Echo after the opening
+      // CONTINUOUS BACKGROUND - Atmospheric foundation
+
+      // Background begins
       {
-        at: '0:12',
-        groups: 'C',
-        play: 'xiaxueyi00-eng/C09-S02-echo',
+        at: '0:00',
+        groups: 'A',
+        play: 'xiaxueyi00-eng/C09-S03-drift_FAV',
         ratio: 1.0,
-        level: 0.45,
+        level: 0.35,
+        fade: 3
+      },
+
+      // Background changes to Echo
+      {
+        at: '1:00',
+        groups: 'A',
+        stop: 'all',
+        fade: 2
+      },
+      {
+        at: '1:03',
+        groups: 'A',
+        play: 'xiaxueyi00-eng/C09-S02-echo',
+        ratio: 1.005,
+        level: 0.35,
+        fade: 2
+      },
+
+      // Drift returns
+      {
+        at: '1:45',
+        groups: 'A',
+        stop: 'all',
+        fade: 2
+      },
+      {
+        at: '1:48',
+        groups: 'A',
+        play: 'xiaxueyi00-eng/C09-S03-drift_FAV',
+        ratio: 0.995,
+        level: 0.4,
+        fade: 2
+      },
+
+      // Final fade out
+      {
+        at: '2:20',
+        groups: 'A',
+        stop: 'all',
+        fade: 10
+      },
+
+      // RHYTHMIC PULSES - Repeated Voltage accents
+
+      {
+        at: '0:25',
+        groups: 'B',
+        play: 'xiaxueyi00-eng/C09-S05-voltage',
+        ratio: 1.0,
+        level: 0.6,
         fade: 1
       },
       {
-        at: '0:19',
-        groups: 'C',
+        at: '0:29',
+        groups: 'B',
         stop: 'all',
         fade: 1
       },
 
-      // Add a short Wahwah pattern
       {
         at: '0:35',
+        groups: 'B',
+        play: 'xiaxueyi00-eng/C09-S05-voltage',
+        ratio: 1.005,
+        level: 0.65,
+        fade: 1
+      },
+      {
+        at: '0:39',
+        groups: 'B',
+        stop: 'all',
+        fade: 1
+      },
+
+      {
+        at: '0:45',
+        groups: 'B',
+        play: 'xiaxueyi00-eng/C09-S05-voltage',
+        ratio: 1.01,
+        level: 0.7,
+        fade: 1
+      },
+      {
+        at: '0:49',
+        groups: 'B',
+        stop: 'all',
+        fade: 1
+      },
+
+      {
+        at: '0:55',
+        groups: 'B',
+        play: 'xiaxueyi00-eng/C09-S05-voltage',
+        ratio: 1.015,
+        level: 0.7,
+        fade: 1
+      },
+      {
+        at: '0:59',
+        groups: 'B',
+        stop: 'all',
+        fade: 1
+      },
+
+      // MELODIC RHYTHM - Pulse
+
+      {
+        at: '0:10',
+        groups: 'C',
+        play: 'xiaxueyi00-eng/C09-S01-pulse',
+        ratio: 1.0,
+        level: 0.55,
+        fade: 2
+      },
+      {
+        at: '0:25',
+        groups: 'C',
+        stop: 'all',
+        fade: 2
+      },
+
+      {
+        at: '0:50',
+        groups: 'C',
+        play: 'xiaxueyi00-eng/C09-S01-pulse',
+        ratio: 1.01,
+        level: 0.65,
+        fade: 1
+      },
+      {
+        at: '1:05',
+        groups: 'C',
+        stop: 'all',
+        fade: 2
+      },
+
+      // FILTER MOVEMENT - Wahwah
+
+      {
+        at: '0:30',
         groups: 'D',
         play: 'xiaxueyi00-eng/C09-S04-wahwah',
-        ratio: 1.01,
-        level: 0.55,
-        fade: 1
+        ratio: 1.0,
+        level: 0.5,
+        fade: 2
       },
       {
         at: '0:42',
         groups: 'D',
         stop: 'all',
-        fade: 1
-      },
-
-      // Bring Pulse back briefly
-      {
-        at: '0:58',
-        groups: 'A',
-        play: 'xiaxueyi00-eng/C09-S01-pulse',
-        ratio: 1.005,
-        level: 0.5,
-        fade: 1
-      },
-      {
-        at: '1:04',
-        groups: 'A',
-        stop: 'all',
-        fade: 1
-      },
-
-      // Add Echo as a background layer
-      {
-        at: '1:27',
-        groups: 'C',
-        play: 'xiaxueyi00-eng/C09-S02-echo',
-        ratio: 1.01,
-        level: 0.45,
-        fade: 2
-      },
-      {
-        at: '1:37',
-        groups: 'C',
-        stop: 'all',
         fade: 2
       },
 
-      // Short Pulse repetition
       {
-        at: '1:41',
-        groups: 'A',
-        play: 'xiaxueyi00-eng/C09-S01-pulse',
-        ratio: 1.015,
-        level: 0.6,
-        fade: 1
+        at: '1:10',
+        groups: 'D',
+        play: 'xiaxueyi00-eng/C09-S04-wahwah',
+        ratio: 1.02,
+        level: 0.7,
+        fade: 2
       },
       {
-        at: '1:48',
-        groups: 'A',
+        at: '1:28',
+        groups: 'D',
         stop: 'all',
-        fade: 1
+        fade: 2
       },
+      // PHASING - Gradually shift playback speeds
 
-      // Voltage rhythmic accent
       {
-        at: '1:57',
+        at: '1:00',
+        spread: 1.01,
+        glide: 20
+      },
+      // CLIMAX - Layered synth patterns
+
+      {
+        at: '1:30',
         groups: 'B',
         play: 'xiaxueyi00-eng/C09-S05-voltage',
         ratio: 1.02,
-        level: 0.55,
-        fade: 1
+        level: 0.7,
+        fade: 2
       },
+
       {
-        at: '2:01',
+        at: '1:32',
+        groups: 'C',
+        play: 'xiaxueyi00-eng/C09-S01-pulse',
+        ratio: 1.01,
+        level: 0.75,
+        fade: 2
+      },
+
+      {
+        at: '1:35',
+        groups: 'D',
+        play: 'xiaxueyi00-eng/C09-S04-wahwah',
+        ratio: 0.99,
+        level: 0.65,
+        fade: 2
+      },
+
+      // Reduce intensity
+      {
+        at: '1:55',
         groups: 'B',
         stop: 'all',
-        fade: 1
+        fade: 2
       },
-
-      // Build tension before the climax
       {
         at: '2:00',
-        groups: 'A',
-        play: 'xiaxueyi00-eng/C09-S04-wahwah',
-        ratio: 1.01,
-        level: 0.6,
-        fade: 1
+        groups: 'C',
+        stop: 'all',
+        fade: 3
       },
       {
-        at: '2:04',
-        groups: 'A',
+        at: '2:05',
+        groups: 'D',
         stop: 'all',
-        fade: 1
+        fade: 3
       },
+      // ENDING - Gradual fade out
 
+      {
+        at: '2:20',
+        groups: 'all',
+        stop: 'all',
+        fade: 10
+      }
     ],
 
     end: '2:30'
