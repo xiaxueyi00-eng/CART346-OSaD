@@ -198,7 +198,7 @@ const SCORES = [
       {
         at: '0:00',
         groups: 'A',
-        play: 'yourgithubusername/C09-S01-pulse',
+        play: 'xiaxueyi00-eng/C09-S01-pulse',
         ratio: 1.0,
         fade: 2
       },
@@ -206,7 +206,7 @@ const SCORES = [
       {
         at: '0:15',
         groups: 'B',
-        play: 'yourgithubusername/C09-S01-pulse',
+        play: 'xiaxueyi00-eng/C09-S01-pulse',
         ratio: 1.005,
         fade: 4
       },
@@ -214,7 +214,7 @@ const SCORES = [
       {
         at: '0:30',
         groups: 'C',
-        play: 'yourgithubusername/C09-S02-echo',
+        play: 'xiaxueyi00-eng/C09-S02-echo',
         ratio: 1.01,
         fade: 5
       },
@@ -222,7 +222,7 @@ const SCORES = [
       {
         at: '0:50',
         groups: 'D',
-        play: 'yourgithubusername/C09-S03-drift_FAV',
+        play: 'xiaxueyi00-eng/C09-S03-drift_FAV',
         ratio: 1.0,
         fade: 4
       },
@@ -236,7 +236,7 @@ const SCORES = [
       {
         at: '1:30',
         groups: 'A',
-        play: 'yourgithubusername/C09-S04-wahwah',
+        play: 'xiaxueyi00-eng/C09-S04-wahwah',
         ratio: 0.99,
         fade: 5
       },
@@ -244,7 +244,7 @@ const SCORES = [
       {
         at: '1:50',
         groups: 'B',
-        play: 'yourgithubusername/C09-S05-voltage',
+        play: 'xiaxueyi00-eng/C09-S05-voltage',
         ratio: 1.02,
         fade: 5
       },
