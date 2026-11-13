@@ -230,9 +230,9 @@ const SCORES = [
         ratio: 1.01,
         fade: 5
       },
+      // Group B - S05 Voltage plays every 10 seconds
+      // Each repetition lasts 5 seconds
 
-      // Replace Pulse with Voltage
-      // S05 Voltage - Play for 5 seconds
       {
         at: '0:55',
         groups: 'B',
@@ -240,10 +240,64 @@ const SCORES = [
         ratio: 1.005,
         fade: 1
       },
-
-      // Fade out S05
       {
         at: '0:59',
+        groups: 'B',
+        stop: 'all',
+        fade: 1
+      },
+
+      {
+        at: '1:05',
+        groups: 'B',
+        play: 'xiaxueyi00-eng/C09-S05-voltage',
+        ratio: 1.01,
+        fade: 1
+      },
+      {
+        at: '1:09',
+        groups: 'B',
+        stop: 'all',
+        fade: 1
+      },
+
+      {
+        at: '1:15',
+        groups: 'B',
+        play: 'xiaxueyi00-eng/C09-S05-voltage',
+        ratio: 1.015,
+        fade: 1
+      },
+      {
+        at: '1:19',
+        groups: 'B',
+        stop: 'all',
+        fade: 1
+      },
+
+      {
+        at: '1:25',
+        groups: 'B',
+        play: 'xiaxueyi00-eng/C09-S05-voltage',
+        ratio: 1.02,
+        fade: 1
+      },
+      {
+        at: '1:29',
+        groups: 'B',
+        stop: 'all',
+        fade: 1
+      },
+
+      {
+        at: '1:35',
+        groups: 'B',
+        play: 'xiaxueyi00-eng/C09-S05-voltage',
+        ratio: 1.025,
+        fade: 1
+      },
+      {
+        at: '1:39',
         groups: 'B',
         stop: 'all',
         fade: 1
