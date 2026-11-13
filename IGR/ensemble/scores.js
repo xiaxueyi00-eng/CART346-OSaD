@@ -195,6 +195,7 @@ const SCORES = [
     groups: 4,
 
     events: [
+      // Opening: Pulse
       {
         at: '0:00',
         groups: 'A',
@@ -204,51 +205,84 @@ const SCORES = [
       },
 
       {
-        at: '0:15',
+        at: '0:12',
         groups: 'B',
         play: 'xiaxueyi00-eng/C09-S01-pulse',
         ratio: 1.005,
+        fade: 3
+      },
+
+      // Introduce Wahwah
+      {
+        at: '0:25',
+        groups: 'A',
+        play: 'xiaxueyi00-eng/C09-S04-wahwah',
+        ratio: 1.0,
         fade: 4
       },
 
+      // Add Echo
       {
-        at: '0:30',
+        at: '0:40',
         groups: 'C',
         play: 'xiaxueyi00-eng/C09-S02-echo',
         ratio: 1.01,
         fade: 5
       },
 
+      // Replace Pulse with Voltage
       {
-        at: '0:50',
-        groups: 'D',
-        play: 'xiaxueyi00-eng/C09-S03-drift_FAV',
-        ratio: 1.0,
+        at: '0:55',
+        groups: 'B',
+        play: 'xiaxueyi00-eng/C09-S05-voltage',
+        ratio: 1.005,
         fade: 4
       },
 
+      // Gradual phasing
       {
         at: '1:10',
         spread: 1.01,
         glide: 20
       },
 
+      // Favorite sound enters
       {
-        at: '1:30',
+        at: '1:20',
+        groups: 'D',
+        play: 'xiaxueyi00-eng/C09-S03-drift_FAV',
+        ratio: 1.0,
+        fade: 6
+      },
+
+      // Pulse returns briefly
+      {
+        at: '1:40',
+        groups: 'A',
+        play: 'xiaxueyi00-eng/C09-S01-pulse',
+        ratio: 1.01,
+        fade: 3
+      },
+
+      // Wahwah returns
+      {
+        at: '1:55',
         groups: 'A',
         play: 'xiaxueyi00-eng/C09-S04-wahwah',
         ratio: 0.99,
-        fade: 5
+        fade: 4
       },
 
+      // Final variation
       {
-        at: '1:50',
+        at: '2:10',
         groups: 'B',
         play: 'xiaxueyi00-eng/C09-S05-voltage',
         ratio: 1.02,
-        fade: 5
+        fade: 4
       },
 
+      // Ending
       {
         at: '2:20',
         groups: 'all',
