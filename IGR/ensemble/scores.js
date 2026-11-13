@@ -243,7 +243,7 @@ const SCORES = [
 
       // Fade out S05
       {
-        at: '2:00',
+        at: '0:59',
         groups: 'B',
         stop: 'all',
         fade: 1
