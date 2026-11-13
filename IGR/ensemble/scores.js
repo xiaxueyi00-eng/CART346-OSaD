@@ -198,7 +198,7 @@ const SCORES = [
       {
         at: '0:00',
         groups: 'A',
-        play: '/C09-S01-pulse',
+        play: 'xiaxueyi00-eng/C09-S01-pulse',
         ratio: 1.0,
         fade: 2
       },
