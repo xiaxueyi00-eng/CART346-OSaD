@@ -195,6 +195,13 @@ const SCORES = [
     groups: 4,
 
     events: [
+      {
+        at: '0:00',
+        groups: 'D',
+        play: 'xiaxueyi00-eng/C09-S04-wahwah',
+        ratio: 1.0,
+        fade: 2
+      },
       // Opening: Pulse
       {
         at: '0:00',
