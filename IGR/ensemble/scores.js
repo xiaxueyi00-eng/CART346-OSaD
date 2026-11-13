@@ -190,101 +190,65 @@ const SCORES = [
 
 
   {
-    title: 'C09 · ',
-    credit: 'All sounds created and recorded by Xueyi Xia.',
+    title: 'C09 · Floating Rain',
+    credit: 'Your Name',
     groups: 4,
 
     events: [
-
-      // Opening: Pulse
       {
         at: '0:00',
         groups: 'A',
-        play: 'xiaxueyi00-eng/C09-S01-pulse',
+        play: '/C09-S01-pulse',
         ratio: 1.0,
         fade: 2
       },
 
       {
-        at: '0:12',
+        at: '0:15',
         groups: 'B',
         play: 'xiaxueyi00-eng/C09-S01-pulse',
         ratio: 1.005,
-        fade: 3
-      },
-
-      // Introduce Wahwah
-      {
-        at: '0:25',
-        groups: 'A',
-        play: 'xiaxueyi00-eng/C09-S04-wahwah',
-        ratio: 1.0,
         fade: 4
       },
 
-      // Add Echo
       {
-        at: '0:40',
+        at: '0:30',
         groups: 'C',
-        play: 'xiaxueyi00-eng/C09-S02-echo',
+        play: 'xiaxueyi00-eng/C09-S02-dream',
         ratio: 1.01,
         fade: 5
       },
 
-      // Replace Pulse with Voltage
-      // S05 Voltage - Play for 5 seconds
       {
-        at: '0:55',
-        groups: 'B',
-        play: 'xiaxueyi00-eng/C09-S05-voltage',
-        ratio: 1.005,
-        fade: 1
-      },
-
-      // Fade out S05
-      {
-        at: '0:59',
-        groups: 'B',
-        stop: 'all',
-        fade: 1
-      },
-      // Favorite sound enters
-      {
-        at: '1:20',
+        at: '0:50',
         groups: 'D',
-        play: 'xiaxueyi00-eng/C09-S03-drift_FAV',
+        play: 'xiaxueyi00-eng/C09-S03-rain_FAV',
         ratio: 1.0,
-        fade: 6
+        fade: 4
       },
 
-      // Pulse returns briefly
       {
-        at: '1:40',
-        groups: 'A',
-        play: 'xiaxueyi00-eng/C09-S01-pulse',
-        ratio: 1.01,
-        fade: 3
+        at: '1:10',
+        spread: 1.01,
+        glide: 20
       },
 
-      // Wahwah returns
       {
-        at: '1:55',
+        at: '1:30',
         groups: 'A',
-        play: 'xiaxueyi00-eng/C09-S04-wahwah',
+        play: 'xiaxueyi00-eng/C09-S04-bass',
         ratio: 0.99,
-        fade: 4
+        fade: 5
       },
 
-      // Final variation
       {
-        at: '2:10',
+        at: '1:50',
         groups: 'B',
-        play: 'xiaxueyi00-eng/C09-S05-voltage',
+        play: 'xiaxueyi00-eng/C09-S05-space',
         ratio: 1.02,
-        fade: 4
+        fade: 5
       },
 
-      // Ending
       {
         at: '2:20',
         groups: 'all',
