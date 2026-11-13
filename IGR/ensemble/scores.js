@@ -191,7 +191,7 @@ const SCORES = [
 
 
   {
-    title: 'C09 · Floating Rain',
+    title: 'C09 · Frequency',
     credit: 'Xueyi Xia',
     groups: 4,
 
