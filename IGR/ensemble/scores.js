@@ -484,7 +484,7 @@ const SCORES = [
 
       { at: '0:40', groups: 'all', stop: 'xiaxueyi00-eng/C10-S03-rain', fade: 5 },
 
-      { at: '0:45', groups: 'AB', play: 'xiaxueyi00-eng/C10-S02-clock-ticking', ratio: 1.01, fade: 5, level: 0.6 },
+      { at: '0:20', groups: 'AB', play: 'xiaxueyi00-eng/C10-S02-clock-ticking', loop: true, ratio: 1.01, fade: 5, level: 0.6 },
 
       { at: '1:10', groups: 'CD', play: 'xiaxueyi00-eng/C10-S05-sci-fi-ambient_FAV', ratio: 1.002, fade: 10, level: 0.5 },
 
@@ -495,7 +495,7 @@ const SCORES = [
       { at: '1:45', groups: 'all', play: 'xiaxueyi00-eng/C10-S04-time-warp', loop: false, level: 0.7 },
 
 
-      { at: '2:10', groups: 'AB', stop: 'xiaxueyi00-eng/C10-S02-clock-ticking', fade: 10 },
+      { at: '2:20', groups: 'AB', stop: 'xiaxueyi00-eng/C10-S02-clock-ticking', fade: 10 },
 
       { at: '2:25', groups: 'CD', stop: 'xiaxueyi00-eng/C10-S05-sci-fi-ambient_FAV', fade: 10 },
 
