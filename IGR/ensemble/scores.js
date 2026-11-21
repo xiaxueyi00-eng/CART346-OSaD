@@ -465,10 +465,22 @@ const SCORES = [
       { at: '0:00', groups: 'all', play: 'xiaxueyi00-eng/C10-S03-rain', ratio: 1.0, fade: 8, level: 0.5 },
 
 
-      { at: '0:20', groups: 'A', play: 'xiaxueyi00-eng/C10-S01-Footsteps', loop: false, level: 0.7 },
-      { at: '0:24', groups: 'B', play: 'xiaxueyi00-eng/C10-S01-Footsteps', loop: false, level: 0.7 },
-      { at: '0:28', groups: 'C', play: 'xiaxueyi00-eng/C10-S01-Footsteps', loop: false, level: 0.7 },
-      { at: '0:32', groups: 'D', play: 'xiaxueyi00-eng/C10-S01-Footsteps', loop: false, level: 0.7 },
+      { at: '0:15', groups: 'A', play: 'xiaxueyi00-eng/C10-S01-Footsteps', loop: false, level: 0.6 },
+      { at: '0:19', groups: 'B', play: 'xiaxueyi00-eng/C10-S01-Footsteps', loop: false, level: 0.6 },
+      { at: '0:23', groups: 'C', play: 'xiaxueyi00-eng/C10-S01-Footsteps', loop: false, level: 0.6 },
+      { at: '0:27', groups: 'D', play: 'xiaxueyi00-eng/C10-S01-Footsteps', loop: false, level: 0.6 },
+
+
+      { at: '0:35', groups: 'A', play: 'xiaxueyi00-eng/C10-S01-Footsteps', loop: false, level: 0.7 },
+      { at: '0:38', groups: 'B', play: 'xiaxueyi00-eng/C10-S01-Footsteps', loop: false, level: 0.7 },
+      { at: '0:41', groups: 'C', play: 'xiaxueyi00-eng/C10-S01-Footsteps', loop: false, level: 0.7 },
+      { at: '0:44', groups: 'D', play: 'xiaxueyi00-eng/C10-S01-Footsteps', loop: false, level: 0.7 },
+
+
+      { at: '1:00', groups: 'A', play: 'xiaxueyi00-eng/C10-S01-Footsteps', loop: false, level: 0.8 },
+      { at: '1:02', groups: 'B', play: 'xiaxueyi00-eng/C10-S01-Footsteps', loop: false, level: 0.8 },
+      { at: '1:04', groups: 'C', play: 'xiaxueyi00-eng/C10-S01-Footsteps', loop: false, level: 0.8 },
+      { at: '1:06', groups: 'D', play: 'xiaxueyi00-eng/C10-S01-Footsteps', loop: false, level: 0.8 },
 
       { at: '0:45', groups: 'AB', play: 'xiaxueyi00-eng/C10-S02-clock-ticking', ratio: 1.01, fade: 5, level: 0.6 },
 
