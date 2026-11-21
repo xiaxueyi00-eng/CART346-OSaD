@@ -481,9 +481,9 @@ const SCORES = [
       { at: '1:45', groups: 'all', play: 'xiaxueyi00-eng/C10-S04-time-warp', loop: false, level: 0.7 },
 
 
-      { at: '2:10', groups: 'AB', stop: 'xiaxueyi00-eng/C10-S02-Clock Ticking', fade: 10 },
+      { at: '2:10', groups: 'AB', stop: 'xiaxueyi00-eng/C10-S02-clock-ticking', fade: 10 },
 
-      { at: '2:25', groups: 'CD', stop: 'xiaxueyi00-eng/C10-S05-sci-fi-ambient_FAV', fade: 10 },
+      { at: '2:25', groups: 'CD', stop: 'xiaxueyi00-eng/    C10-S05-sci-fi-ambient_FAV', fade: 10 },
 
 
       { at: '2:40', groups: 'all', stop: 'all', fade: 10 }
