@@ -502,7 +502,6 @@ const SCORES = [
         loop: false, level: 0.7
       },
 
-      // Clock begins to disturb the peaceful atmosphere
 
       {
         at: '0:55',
@@ -513,9 +512,6 @@ const SCORES = [
         fade: 5,
         level: 0.5
       },
-
-      // PART 3 — FAILURE
-      // Different playback ratios create instability
 
       {
         at: '1:15',
@@ -560,6 +556,7 @@ const SCORES = [
         groups: 'all',
         play: 'xiaxueyi00-eng/C10-S04-time-warp',
         loop: false,
+        ratio: 0.7,
         level: 0.8
       },
 
@@ -573,8 +570,6 @@ const SCORES = [
         level: 0.8
       },
 
-      // PART 5 — RECOVERY
-      // Clock disappears
 
       {
         at: '2:15',
