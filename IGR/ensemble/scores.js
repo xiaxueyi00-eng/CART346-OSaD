@@ -190,270 +190,304 @@ const SCORES = [
 
 
 
+  // {
+  //   title: 'C09 · Frequency',
+  //   credit: 'Xueyi Xia',
+  //   groups: 4,
+
+  //   events: [
+
+  //     // =====================================
+  //     // 1. OPENING - UNISON AND FIRST DRIFT
+  //     // =====================================
+
+  //     // Two identical Pulse loops begin together
+  //     {
+  //       at: '0:00',
+  //       groups: 'A',
+  //       play: 'xiaxueyi00-eng/C09-S01-pulse',
+  //       ratio: 1.0,
+  //       level: 0.38,
+  //       fade: 2
+  //     },
+  //     {
+  //       at: '0:00',
+  //       groups: 'B',
+  //       play: 'xiaxueyi00-eng/C09-S01-pulse',
+  //       ratio: 1.0,
+  //       level: 0.32,
+  //       fade: 2
+  //     },
+
+  //     // Third layer: atmospheric Drift
+  //     {
+  //       at: '0:00',
+  //       groups: 'C',
+  //       play: 'xiaxueyi00-eng/C09-S03-drift_FAV',
+  //       ratio: 1.0,
+  //       level: 0.32,
+  //       fade: 3
+  //     },
+
+  //     // Begin subtle phasing
+  //     {
+  //       at: '0:12',
+  //       spread: 1.005,
+  //       glide: 12
+  //     },
+
+  //     // Fourth layer enters
+  //     {
+  //       at: '0:15',
+  //       groups: 'D',
+  //       play: 'xiaxueyi00-eng/C09-S02-echo',
+  //       ratio: 1.0,
+  //       level: 0.30,
+  //       fade: 3
+  //     },
+
+  //     // =====================================
+  //     // 2. PHASE SHIFT - RHYTHMIC DISPLACEMENT
+  //     // =====================================
+
+  //     // Increase the speed difference
+  //     {
+  //       at: '0:28',
+  //       spread: 1.01,
+  //       glide: 15
+  //     },
+
+  //     // Briefly remove the second Pulse
+  //     {
+  //       at: '0:35',
+  //       groups: 'B',
+  //       stop: 'all',
+  //       fade: 2
+  //     },
+
+  //     // Voltage replaces the second Pulse
+  //     {
+  //       at: '0:38',
+  //       groups: 'B',
+  //       play: 'xiaxueyi00-eng/C09-S05-voltage',
+  //       ratio: 1.01,
+  //       level: 0.55,
+  //       fade: 1
+  //     },
+  //     {
+  //       at: '0:43',
+  //       groups: 'B',
+  //       stop: 'all',
+  //       fade: 1
+  //     },
+
+  //     // Return to the original Pulse
+  //     {
+  //       at: '0:46',
+  //       groups: 'B',
+  //       play: 'xiaxueyi00-eng/C09-S01-pulse',
+  //       ratio: 1.015,
+  //       level: 0.42,
+  //       fade: 1
+  //     },
+
+  //     // =====================================
+  //     // 3. FILTER MOVEMENT - TEXTURE CHANGE
+  //     // =====================================
+
+  //     // Echo exits
+  //     {
+  //       at: '0:55',
+  //       groups: 'D',
+  //       stop: 'all',
+  //       fade: 2
+  //     },
+
+  //     // Wahwah creates moving filter texture
+  //     {
+  //       at: '0:58',
+  //       groups: 'D',
+  //       play: 'xiaxueyi00-eng/C09-S04-wahwah',
+  //       ratio: 0.995,
+  //       level: 0.52,
+  //       fade: 2
+  //     },
+
+  //     // Wider phasing
+  //     {
+  //       at: '1:08',
+  //       spread: 1.02,
+  //       glide: 18
+  //     },
+
+  //     // Second Pulse changes to Voltage
+  //     {
+  //       at: '1:12',
+  //       groups: 'B',
+  //       stop: 'all',
+  //       fade: 2
+  //     },
+  //     {
+  //       at: '1:15',
+  //       groups: 'B',
+  //       play: 'xiaxueyi00-eng/C09-S05-voltage',
+  //       ratio: 1.02,
+  //       level: 0.62,
+  //       fade: 1
+  //     },
+  //     {
+  //       at: '1:20',
+  //       groups: 'B',
+  //       stop: 'all',
+  //       fade: 1
+  //     },
+
+  //     // Pulse returns at a different speed
+  //     {
+  //       at: '1:23',
+  //       groups: 'B',
+  //       play: 'xiaxueyi00-eng/C09-S01-pulse',
+  //       ratio: 1.025,
+  //       level: 0.55,
+  //       fade: 1
+  //     },
+
+  //     // =====================================
+  //     // 4. CLIMAX - FOUR INTERLOCKING LOOPS
+  //     // =====================================
+
+  //     // Intensify the phase relationship
+  //     {
+  //       at: '1:30',
+  //       spread: 1.03,
+  //       glide: 12
+  //     },
+
+  //     // Wahwah exits briefly
+  //     {
+  //       at: '1:38',
+  //       groups: 'D',
+  //       stop: 'all',
+  //       fade: 1
+  //     },
+
+  //     // Voltage cuts through the texture
+  //     {
+  //       at: '1:40',
+  //       groups: 'D',
+  //       play: 'xiaxueyi00-eng/C09-S05-voltage',
+  //       ratio: 1.03,
+  //       level: 0.75,
+  //       fade: 1
+  //     },
+  //     {
+  //       at: '1:45',
+  //       groups: 'D',
+  //       stop: 'all',
+  //       fade: 1
+  //     },
+
+  //     // Wahwah returns
+  //     {
+  //       at: '1:47',
+  //       groups: 'D',
+  //       play: 'xiaxueyi00-eng/C09-S04-wahwah',
+  //       ratio: 1.01,
+  //       level: 0.65,
+  //       fade: 1
+  //     },
+
+  //     // =====================================
+  //     // 5. DECONSTRUCTION - LOOPS SEPARATE
+  //     // =====================================
+
+  //     // Reduce the phase spread
+  //     {
+  //       at: '1:58',
+  //       spread: 1.005,
+  //       glide: 18
+  //     },
+
+  //     // Change the second Pulse to Echo
+  //     {
+  //       at: '2:02',
+  //       groups: 'B',
+  //       stop: 'all',
+  //       fade: 2
+  //     },
+  //     {
+  //       at: '2:05',
+  //       groups: 'B',
+  //       play: 'xiaxueyi00-eng/C09-S02-echo',
+  //       ratio: 1.0,
+  //       level: 0.35,
+  //       fade: 2
+  //     },
+
+  //     // Return Wahwah to a quieter texture
+  //     {
+  //       at: '2:08',
+  //       groups: 'D',
+  //       stop: 'all',
+  //       fade: 2
+  //     },
+  //     {
+  //       at: '2:11',
+  //       groups: 'D',
+  //       play: 'xiaxueyi00-eng/C09-S04-wahwah',
+  //       ratio: 1.0,
+  //       level: 0.38,
+  //       fade: 2
+  //     },
+
+  //     // =====================================
+  //     // 6. ENDING - SLOW DISAPPEARANCE
+  //     // =====================================
+
+  //     {
+  //       at: '2:20',
+  //       groups: 'all',
+  //       stop: 'all',
+  //       fade: 10
+  //     }
+
+  //   ],
+
+  //   end: '2:30'
+  // },
+
   {
-    title: 'C09 · Frequency',
+    title: 'C10 · Lost in Time',
     credit: 'Xueyi Xia',
     groups: 4,
-
     events: [
 
-      // =====================================
-      // 1. OPENING - UNISON AND FIRST DRIFT
-      // =====================================
+      { at: '0:00', groups: 'all', play: 'xiaxueyi00-eng/C10-S03-rain', ratio: 1.0, fade: 8, level: 0.5 },
 
-      // Two identical Pulse loops begin together
-      {
-        at: '0:00',
-        groups: 'A',
-        play: 'xiaxueyi00-eng/C09-S01-pulse',
-        ratio: 1.0,
-        level: 0.38,
-        fade: 2
-      },
-      {
-        at: '0:00',
-        groups: 'B',
-        play: 'xiaxueyi00-eng/C09-S01-pulse',
-        ratio: 1.0,
-        level: 0.32,
-        fade: 2
-      },
 
-      // Third layer: atmospheric Drift
-      {
-        at: '0:00',
-        groups: 'C',
-        play: 'xiaxueyi00-eng/C09-S03-drift_FAV',
-        ratio: 1.0,
-        level: 0.32,
-        fade: 3
-      },
+      { at: '0:20', groups: 'A', play: 'xiaxueyi00-eng/C10-S01-Footsteps', loop: false, level: 0.7 },
+      { at: '0:24', groups: 'B', play: 'xiaxueyi00-eng/C10-S01-Footsteps', loop: false, level: 0.7 },
+      { at: '0:28', groups: 'C', play: 'xiaxueyi00-eng/C10-S01-Footsteps', loop: false, level: 0.7 },
+      { at: '0:32', groups: 'D', play: 'xiaxueyi00-eng/C10-S01-Footsteps', loop: false, level: 0.7 },
 
-      // Begin subtle phasing
-      {
-        at: '0:12',
-        spread: 1.005,
-        glide: 12
-      },
+      { at: '0:45', groups: 'AB', play: 'xiaxueyi00-eng/C10-S02-Clock Ticking', ratio: 1.01, fade: 5, level: 0.6 },
 
-      // Fourth layer enters
-      {
-        at: '0:15',
-        groups: 'D',
-        play: 'xiaxueyi00-eng/C09-S02-echo',
-        ratio: 1.0,
-        level: 0.30,
-        fade: 3
-      },
+      { at: '1:10', groups: 'CD', play: 'xiaxueyi00-eng/C10-S05-sci-fi-ambient_FAV', ratio: 1.002, fade: 10, level: 0.5 },
 
-      // =====================================
-      // 2. PHASE SHIFT - RHYTHMIC DISPLACEMENT
-      // =====================================
 
-      // Increase the speed difference
-      {
-        at: '0:28',
-        spread: 1.01,
-        glide: 15
-      },
+      { at: '1:30', spread: 1.005, glide: 20 },
 
-      // Briefly remove the second Pulse
-      {
-        at: '0:35',
-        groups: 'B',
-        stop: 'all',
-        fade: 2
-      },
 
-      // Voltage replaces the second Pulse
-      {
-        at: '0:38',
-        groups: 'B',
-        play: 'xiaxueyi00-eng/C09-S05-voltage',
-        ratio: 1.01,
-        level: 0.55,
-        fade: 1
-      },
-      {
-        at: '0:43',
-        groups: 'B',
-        stop: 'all',
-        fade: 1
-      },
+      { at: '1:45', groups: 'all', play: 'xiaxueyi00-eng/C10-S04-time-warp', loop: false, level: 0.7 },
 
-      // Return to the original Pulse
-      {
-        at: '0:46',
-        groups: 'B',
-        play: 'xiaxueyi00-eng/C09-S01-pulse',
-        ratio: 1.015,
-        level: 0.42,
-        fade: 1
-      },
 
-      // =====================================
-      // 3. FILTER MOVEMENT - TEXTURE CHANGE
-      // =====================================
+      { at: '2:10', groups: 'AB', stop: 'xiaxueyi00-eng/C10-S02-Clock Ticking', fade: 10 },
 
-      // Echo exits
-      {
-        at: '0:55',
-        groups: 'D',
-        stop: 'all',
-        fade: 2
-      },
+      { at: '2:25', groups: 'CD', stop: 'xiaxueyi00-eng/C10-S05-sci-fi-ambient_FAV', fade: 10 },
 
-      // Wahwah creates moving filter texture
-      {
-        at: '0:58',
-        groups: 'D',
-        play: 'xiaxueyi00-eng/C09-S04-wahwah',
-        ratio: 0.995,
-        level: 0.52,
-        fade: 2
-      },
 
-      // Wider phasing
-      {
-        at: '1:08',
-        spread: 1.02,
-        glide: 18
-      },
-
-      // Second Pulse changes to Voltage
-      {
-        at: '1:12',
-        groups: 'B',
-        stop: 'all',
-        fade: 2
-      },
-      {
-        at: '1:15',
-        groups: 'B',
-        play: 'xiaxueyi00-eng/C09-S05-voltage',
-        ratio: 1.02,
-        level: 0.62,
-        fade: 1
-      },
-      {
-        at: '1:20',
-        groups: 'B',
-        stop: 'all',
-        fade: 1
-      },
-
-      // Pulse returns at a different speed
-      {
-        at: '1:23',
-        groups: 'B',
-        play: 'xiaxueyi00-eng/C09-S01-pulse',
-        ratio: 1.025,
-        level: 0.55,
-        fade: 1
-      },
-
-      // =====================================
-      // 4. CLIMAX - FOUR INTERLOCKING LOOPS
-      // =====================================
-
-      // Intensify the phase relationship
-      {
-        at: '1:30',
-        spread: 1.03,
-        glide: 12
-      },
-
-      // Wahwah exits briefly
-      {
-        at: '1:38',
-        groups: 'D',
-        stop: 'all',
-        fade: 1
-      },
-
-      // Voltage cuts through the texture
-      {
-        at: '1:40',
-        groups: 'D',
-        play: 'xiaxueyi00-eng/C09-S05-voltage',
-        ratio: 1.03,
-        level: 0.75,
-        fade: 1
-      },
-      {
-        at: '1:45',
-        groups: 'D',
-        stop: 'all',
-        fade: 1
-      },
-
-      // Wahwah returns
-      {
-        at: '1:47',
-        groups: 'D',
-        play: 'xiaxueyi00-eng/C09-S04-wahwah',
-        ratio: 1.01,
-        level: 0.65,
-        fade: 1
-      },
-
-      // =====================================
-      // 5. DECONSTRUCTION - LOOPS SEPARATE
-      // =====================================
-
-      // Reduce the phase spread
-      {
-        at: '1:58',
-        spread: 1.005,
-        glide: 18
-      },
-
-      // Change the second Pulse to Echo
-      {
-        at: '2:02',
-        groups: 'B',
-        stop: 'all',
-        fade: 2
-      },
-      {
-        at: '2:05',
-        groups: 'B',
-        play: 'xiaxueyi00-eng/C09-S02-echo',
-        ratio: 1.0,
-        level: 0.35,
-        fade: 2
-      },
-
-      // Return Wahwah to a quieter texture
-      {
-        at: '2:08',
-        groups: 'D',
-        stop: 'all',
-        fade: 2
-      },
-      {
-        at: '2:11',
-        groups: 'D',
-        play: 'xiaxueyi00-eng/C09-S04-wahwah',
-        ratio: 1.0,
-        level: 0.38,
-        fade: 2
-      },
-
-      // =====================================
-      // 6. ENDING - SLOW DISAPPEARANCE
-      // =====================================
-
-      {
-        at: '2:20',
-        groups: 'all',
-        stop: 'all',
-        fade: 10
-      }
-
+      { at: '2:40', groups: 'all', stop: 'all', fade: 10 }
     ],
-
-    end: '2:30'
+    end: '2:50'
   },
-
 ];
