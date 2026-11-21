@@ -470,7 +470,7 @@ const SCORES = [
       { at: '0:28', groups: 'C', play: 'xiaxueyi00-eng/C10-S01-Footsteps', loop: false, level: 0.7 },
       { at: '0:32', groups: 'D', play: 'xiaxueyi00-eng/C10-S01-Footsteps', loop: false, level: 0.7 },
 
-      { at: '0:45', groups: 'AB', play: 'xiaxueyi00-eng/C10-S02-Clock Ticking', ratio: 1.01, fade: 5, level: 0.6 },
+      { at: '0:45', groups: 'AB', play: 'xiaxueyi00-eng/C10-S02-clock-ticking', ratio: 1.01, fade: 5, level: 0.6 },
 
       { at: '1:10', groups: 'CD', play: 'xiaxueyi00-eng/C10-S05-sci-fi-ambient_FAV', ratio: 1.002, fade: 10, level: 0.5 },
 
