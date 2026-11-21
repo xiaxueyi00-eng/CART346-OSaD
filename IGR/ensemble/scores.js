@@ -457,49 +457,171 @@ const SCORES = [
   // },
 
   {
-    title: 'C10 · Lost in Time',
+    title: 'C10 · Beautiful Failure',
     credit: 'Xueyi Xia',
     groups: 4,
     events: [
 
-      { at: '0:00', groups: 'all', play: 'xiaxueyi00-eng/C10-S03-rain', loop: false, ratio: 1.0, fade: 3, level: 0.5 },
+      // PART 1 — BEAUTY
+      // Peaceful rain begins in unison
 
+      {
+        at: '0:00',
+        groups: 'all',
+        play: 'xiaxueyi00-eng/C10-S03-rain',
+        loop: true,
+        ratio: 1.0,
+        fade: 5,
+        level: 0.5
+      },
 
-      { at: '0:15', groups: 'A', play: 'xiaxueyi00-eng/C10-S01-Footsteps', loop: false, level: 0.6 },
-      { at: '0:19', groups: 'B', play: 'xiaxueyi00-eng/C10-S01-Footsteps', loop: false, level: 0.6 },
-      { at: '0:23', groups: 'C', play: 'xiaxueyi00-eng/C10-S01-Footsteps', loop: false, level: 0.6 },
-      { at: '0:27', groups: 'D', play: 'xiaxueyi00-eng/C10-S01-Footsteps', loop: false, level: 0.6 },
+      // PART 2 — FIRST CRACKS
+      // Footsteps move across four groups
 
+      {
+        at: '0:35', groups: 'A',
+        play: 'xiaxueyi00-eng/C10-S01-Footsteps',
+        loop: false, level: 0.6
+      },
 
-      { at: '0:35', groups: 'A', play: 'xiaxueyi00-eng/C10-S01-Footsteps', loop: false, level: 0.7 },
-      { at: '0:38', groups: 'B', play: 'xiaxueyi00-eng/C10-S01-Footsteps', loop: false, level: 0.7 },
-      { at: '0:41', groups: 'C', play: 'xiaxueyi00-eng/C10-S01-Footsteps', loop: false, level: 0.7 },
-      { at: '0:44', groups: 'D', play: 'xiaxueyi00-eng/C10-S01-Footsteps', loop: false, level: 0.7 },
+      {
+        at: '0:39', groups: 'B',
+        play: 'xiaxueyi00-eng/C10-S01-Footsteps',
+        loop: false, level: 0.6
+      },
 
+      {
+        at: '0:43', groups: 'C',
+        play: 'xiaxueyi00-eng/C10-S01-Footsteps',
+        loop: false, level: 0.7
+      },
 
-      { at: '1:00', groups: 'A', play: 'xiaxueyi00-eng/C10-S01-Footsteps', loop: false, level: 0.8 },
+      {
+        at: '0:47', groups: 'D',
+        play: 'xiaxueyi00-eng/C10-S01-Footsteps',
+        loop: false, level: 0.7
+      },
 
+      // Clock begins to disturb the peaceful atmosphere
 
-      { at: '0:25', groups: 'all', stop: 'xiaxueyi00-eng/C10-S03-rain', fade: 5 },
+      {
+        at: '0:55',
+        groups: 'AB',
+        play: 'xiaxueyi00-eng/C10-S02-clock-ticking',
+        loop: true,
+        ratio: 1.0,
+        fade: 5,
+        level: 0.5
+      },
 
-      { at: '0:20', groups: 'AB', play: 'xiaxueyi00-eng/C10-S02-clock-ticking', loop: true, ratio: 1.01, fade: 5, level: 0.6 },
+      // PART 3 — FAILURE
+      // Different playback ratios create instability
 
-      { at: '1:10', groups: 'CD', play: 'xiaxueyi00-eng/C10-S05-sci-fi-ambient_FAV', ratio: 1.002, fade: 10, level: 0.5 },
+      {
+        at: '1:15',
+        spread: 1.02,
+        glide: 15
+      },
 
+      // Rain disappears
 
-      { at: '1:30', spread: 1.005, glide: 20 },
+      {
+        at: '1:20',
+        groups: 'all',
+        stop: 'xiaxueyi00-eng/C10-S03-rain',
+        fade: 8
+      },
 
+      // Sci-fi texture enters
 
-      { at: '1:45', groups: 'all', play: 'xiaxueyi00-eng/C10-S04-time-warp', loop: false, level: 0.7 },
+      {
+        at: '1:25',
+        groups: 'CD',
+        play: 'xiaxueyi00-eng/C10-S05-sci-fi-ambient_FAV',
+        loop: true,
+        ratio: 1.03,
+        fade: 8,
+        level: 0.6
+      },
 
+      // More unstable clock
 
-      { at: '2:20', groups: 'AB', stop: 'xiaxueyi00-eng/C10-S02-clock-ticking', fade: 10 },
+      {
+        at: '1:40',
+        spread: 1.06,
+        glide: 10
+      },
 
-      { at: '2:25', groups: 'CD', stop: 'xiaxueyi00-eng/C10-S05-sci-fi-ambient_FAV', fade: 10 },
+      // PART 4 — CLIMAX
+      // Time warp appears across all groups
 
+      {
+        at: '1:45',
+        groups: 'all',
+        play: 'xiaxueyi00-eng/C10-S04-time-warp',
+        loop: false,
+        level: 0.8
+      },
 
-      { at: '2:30', groups: 'all', stop: 'all', fade: 10 }
+      // Another time-warp gesture
+
+      {
+        at: '2:00',
+        groups: 'all',
+        play: 'xiaxueyi00-eng/C10-S04-time-warp',
+        loop: false,
+        level: 0.8
+      },
+
+      // PART 5 — RECOVERY
+      // Clock disappears
+
+      {
+        at: '2:15',
+        groups: 'AB',
+        stop: 'xiaxueyi00-eng/C10-S02-clock-ticking',
+        fade: 8
+      },
+
+      // Restore a more stable playback ratio
+
+      {
+        at: '2:15',
+        spread: 1.0,
+        glide: 15
+      },
+
+      // Rain returns
+
+      {
+        at: '2:20',
+        groups: 'all',
+        play: 'xiaxueyi00-eng/C10-S03-rain',
+        loop: true,
+        ratio: 1.0,
+        fade: 10,
+        level: 0.35
+      },
+
+      // Sci-fi texture fades away
+
+      {
+        at: '2:35',
+        groups: 'CD',
+        stop: 'xiaxueyi00-eng/C10-S05-sci-fi-ambient_FAV',
+        fade: 10
+      },
+
+      // Peaceful ending
+
+      {
+        at: '2:40',
+        groups: 'all',
+        stop: 'all',
+        fade: 10
+      }
+
     ],
-    end: '2:30'
+    end: '2:50'
   },
 ];
