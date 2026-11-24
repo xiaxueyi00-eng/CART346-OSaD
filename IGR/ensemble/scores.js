@@ -567,9 +567,9 @@ const SCORES = [
         groups: 'all',
         play: 'xiaxueyi00-eng/C10-S04-time-warp',
         loop: false,
+        ratio: 0.7,
         level: 0.8
       },
-
 
       {
         at: '2:15',
